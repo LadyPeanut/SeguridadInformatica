@@ -159,7 +159,7 @@ public class Practica5 {
 				firma(mensaje, mensaje.length);
 				long t1 = System.nanoTime();
 				
-				times[i] = (t1 - t0);
+				times[i] = (long) ((t1 - t0) / 1000);
 			}
 			
 			long time = 0;
