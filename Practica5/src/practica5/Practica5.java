@@ -80,7 +80,7 @@ public class Practica5 {
 	// TODO: limpiar codigo
 	private final static String publicasFile = "clavePublica";
 	private final static String privadasFile = "clavePrivada";
-	private final static String cifrado = "practica5";
+//	private final static String cifrado = "practica5";
 
 	/**
 	 * @param args:
@@ -123,8 +123,33 @@ public class Practica5 {
 			System.err.println("Usage: java Practica5 -iters <numDocs> -path <path>");
 			System.exit(1);
 		}
+		
+		hash(n); // Obtener hash
+		
+		KeyPair[] kps = generarClaves(n); // Generacion de claves
+		almacenar(kps); // Almacenamiento de claves
+		
+		try {
+			readPublicKey(0); // recuperacion de claves
+			readPrivateKey(0);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		 
+		// cifrado de textos
+		 // cifrado con clave secreta (cifrado simetrico)
+		 try { //cifra 25 paginas de texto plano (extraidas de wikipedia)
+		 cifrarSimetrico(-1);
+		
+		 } catch (Exception e) {
+		 e.printStackTrace();
+		 }
+		 
+		 // cifrado con clave publica y privada
+		int maxTam = cifrarAsimetrico(null, 1);
+		comparativasCifrado(maxTam);
+		
 		firma(n);
-		hash(n);
 	}
 
 	private static void firma(int n) {
@@ -237,9 +262,12 @@ public class Practica5 {
 	private static void comparativasCifrado(int maxTam) {
 		long[] cifradoSimetrico = new long[100];
 		long[] descifradoSimetrico = new long[100];
-		long[] descifradoAsimetrico = new long[100];
+		
 		long[] cifradoASimetrico = new long[100];
-		int mediaCifradoSimetrico, mediaCifradoAsimetrico, mediaDesSimetrico, mediaDesAsimetrico;
+		long[] descifradoAsimetrico = new long[100];
+		
+		int mediaCifradoSimetrico, mediaCifradoAsimetrico, 
+			mediaDesSimetrico, mediaDesAsimetrico;
 		for (int i = 0; i < 100; i++) {
 			try {
 				byte[] rawBytes = generateMessage(maxTam).getBytes("UTF-8");
@@ -273,26 +301,25 @@ public class Practica5 {
 			PublicKey pk = pareja.getPublic();
 			PrivateKey rk = pareja.getPrivate();
 			if (mensaje == null) { // comprobar tamaño maximo del mensaje
-				for (int i = 0; i < 1; i++) {
-					String fichero = "textos/wiki" + (i + 1) + ".txt";
-					System.out.println(fichero);
-					Path path = Paths.get(fichero);
-					byte[] rawBytes = Files.readAllBytes(path);
-					if (rawBytes.length > (tam / 8 - 11)) {
-						System.out.println("Tamaño maximo sobrepasado para este tamaño de clave de RSA");
-						System.out.println("tamaño clave: " + tam + ", tamaño mensaje: " + rawBytes.length
-								+ ", tamaño maximo: " + (tam / 8 - 11));
-					} else {
-						Cipher cipher = Cipher.getInstance("RSA/ECB/PKCS1Padding");
-						cipher.init(Cipher.ENCRYPT_MODE, rk);
-						byte[] encryptedBytes = cipher.doFinal(rawBytes);
-						cipher.init(Cipher.DECRYPT_MODE, pk);
-						byte[] decryptedBytes = cipher.doFinal(encryptedBytes);
-						System.out.println("----------------------------------------------");
-						System.out.println(new String(decryptedBytes, "UTF-8"));
-					}
-					return (tam / 8 - 11);
+				int i = 0;
+				String fichero = "textos/wiki" + (i + 1) + ".txt";
+				System.out.println(fichero);
+				Path path = Paths.get(fichero);
+				byte[] rawBytes = Files.readAllBytes(path);
+				if (rawBytes.length > (tam / 8 - 11)) {
+					System.out.println("Tamaño maximo sobrepasado para este tamaño de clave de RSA");
+					System.out.println("tamaño clave: " + tam + ", tamaño mensaje: " + rawBytes.length
+							+ ", tamaño maximo: " + (tam / 8 - 11));
+				} else {
+					Cipher cipher = Cipher.getInstance("RSA/ECB/PKCS1Padding");
+					cipher.init(Cipher.ENCRYPT_MODE, rk);
+					byte[] encryptedBytes = cipher.doFinal(rawBytes);
+					cipher.init(Cipher.DECRYPT_MODE, pk);
+					byte[] decryptedBytes = cipher.doFinal(encryptedBytes);
+					System.out.println("----------------------------------------------");
+					System.out.println(new String(decryptedBytes, "UTF-8"));
 				}
+				return (tam / 8 - 11);
 			} else { // en comparativa con cifrado simetrico
 
 			}
@@ -413,11 +440,15 @@ public class Practica5 {
 	}
 
 	/**
-	 * Genera @param n claves de tipo: - Clave publica (t1) - Clave publica (t2)
+	 * Genera @param n claves de tipo: 
+	 * - Clave publica (t1) 
+	 * - Clave publica (t2)
 	 * - Clave publica (t3)
 	 * 
-	 * - Clave privada (t1) - Clave privada (t2) - Clave privada (t3) Genera los
-	 * pares de claves publica/privada
+	 * - Clave privada (t1) 
+	 * - Clave privada (t2) 
+	 * - Clave privada (t3) 
+	 * Genera los pares de claves publica/privada
 	 */
 	private static KeyPair[] generarClaves(int n) {
 		KeyPair[] kps = new KeyPair[3];
