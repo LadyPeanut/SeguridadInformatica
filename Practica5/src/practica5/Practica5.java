@@ -178,26 +178,19 @@ public class Practica5 {
 					Cipher cipher;
 					try {
 						cipher = Cipher.getInstance("RSA/ECB/PKCS1Padding");
-						cipher.init(Cipher.ENCRYPT_MODE, rk); // se manda la
-																// firma
-																// encriptada
-																// con la
-																// privada
+						/* se manda la firma encriptada con la privada */
+						cipher.init(Cipher.ENCRYPT_MODE, rk);
 						byte[] encryptedBytes = cipher.doFinal(hashBytes);
-						cipher.init(Cipher.DECRYPT_MODE, pk); // la firma se
-																// desencripta
-																// con la
-																// publica del
-																// remitente
+						/* la firma se desencripta con la publica del remitente */
+						cipher.init(Cipher.DECRYPT_MODE, pk);
 						byte[] decryptedBytes = cipher.doFinal(encryptedBytes);
-						// comparar el hash del mensaje que nos ha llegado con
-						// el desencriptado de la firma
-						// comparar los resumenes (si son iguales, todo es
-						// correcto)
+						/* 
+						 * comparar el hash del mensaje que nos ha llegado con el 
+						 * desencriptado de la firma comparar los 
+						 * resumenes (si son iguales, todo es correcto) 
+						 */
 						boolean exito = true;
-						for (int i = 0; i < hashBytes.length; i++) { // comparar
-																		// bit a
-																		// bit
+						for (int i = 0; i < hashBytes.length; i++) { // comparar bit a bit
 							if (hashBytes[i] != decryptedBytes[i]) {
 								exito = false;
 							}
