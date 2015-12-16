@@ -124,6 +124,7 @@ public class Practica5 {
 			System.exit(1);
 		}
 		firma(n);
+		hash(n);
 	}
 
 	private static void firma(int n) {
@@ -144,7 +145,7 @@ public class Practica5 {
 	 * @param mensaje
 	 * @param size
 	 */
-	public static void firma(byte[] mensaje, int size) {
+	private static void firma(byte[] mensaje, int size) {
 		// simulación de firma digital del mensaje con clave RSA de tamaño size
 		// firma del mensaje con la clave pública del receptor
 		
