@@ -25,15 +25,12 @@ package practica5;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
-import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
 import java.nio.file.Files;
@@ -44,26 +41,20 @@ import java.security.Key;
 import java.security.KeyFactory;
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
-import java.security.KeyStore;
-import java.security.KeyStore.SecretKeyEntry;
-import java.security.KeyStoreException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.PrivateKey;
 import java.security.PublicKey;
 import java.security.SecureRandom;
-import java.security.cert.CertificateException;
 import java.security.spec.RSAPrivateKeySpec;
 import java.security.spec.RSAPublicKeySpec;
 import java.util.Random;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;
-import javax.crypto.CipherOutputStream;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.KeyGenerator;
 import javax.crypto.NoSuchPaddingException;
-import javax.crypto.SecretKey;
 
 public class Practica5 {
 
@@ -86,7 +77,7 @@ public class Practica5 {
 	 * maximo determinado anteriormente y comparar los tiempos para la
 	 * criptografia de clave publica y secreta.
 	 */
-//TODO: limpiar codigo
+	// TODO: limpiar codigo
 	private final static String publicasFile = "clavePublica";
 	private final static String privadasFile = "clavePrivada";
 	private final static String cifrado = "practica5";
@@ -132,58 +123,36 @@ public class Practica5 {
 			System.err.println("Usage: java Practica5 -iters <numDocs> -path <path>");
 			System.exit(1);
 		}
-
-		// hash(n); // Obtener hash
-		// KeyPair[] kps = generarClaves(n); // Generacion de claves
-		// almacenar(kps); // Almacenamiento de claves
-		// PublicKey pk = null;
-		// PrivateKey rk = null;
-		// try {
-		// pk = readPublicKey(0); // recuperacion de claves
-		// // System.out.println(pk.toString());
-		// rk = readPrivateKey(0);
-		// // System.out.println(rk.toString());
-		// } catch (Exception e) {
-		// e.printStackTrace();
-		// }
-		// cifrado de textos
-		// cifrado con clave secreta (cifrado simetrico)
-		// try { //cifra 25 paginas de texto plano (extraidas de wikipedia)
-		// cifrarSimetrico(-1);
-		//
-		// } catch (Exception e) {
-		// e.printStackTrace();
-		// }
-		// cifrado con clave publica y privada
-		//int maxTam = cifrarAsimetrico(null, 1);
-		//comparativasCifrado(maxTam);
 		firma(n);
 	}
 
 	private static void firma(int n) {
 		try {
-			for(int i=0; i<n; i++){
+			for (int i = 0; i < n; i++) {
 				byte[] mensaje = generateMessage(256).getBytes("UTF-8");
-				
+				firma(mensaje, mensaje.length);
 			}
-			
-			
+
 		} catch (UnsupportedEncodingException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
 
 	/**
 	 * firma un mensaje con clave RSA
+	 * 
 	 * @param mensaje
 	 * @param size
 	 */
-	public void firma(byte[] mensaje,int size){
-		//simulación de firma digital del mensaje con clave RSA de tamaño size
-		//firma del mensaje con la clave pública del receptor
-		//TODO: calcular tiempos aquí. Aunque es estupido, hacer solo el hash siempre sera mas rapido que todo esto
-		//TODO: hacer metodos separados para crear las claves, o usar el nuestro anterior, o dejarlo asi?
+	public static void firma(byte[] mensaje, int size) {
+		// simulación de firma digital del mensaje con clave RSA de tamaño size
+		// firma del mensaje con la clave pública del receptor
+		
+		// TODO: calcular tiempos aquí. Aunque es estupido, hacer solo el hash
+		// siempre sera mas rapido que todo esto
+		
+		// TODO: hacer metodos separados para crear las claves, o usar el
+		// nuestro anterior, o dejarlo asi?
 		int tam = 1024 * 4;
 		KeyPairGenerator generator;
 		try {
@@ -192,53 +161,69 @@ public class Practica5 {
 			KeyPair pareja = generator.generateKeyPair();
 			PublicKey pk = pareja.getPublic();
 			PrivateKey rk = pareja.getPrivate();
-			
-			//resumen del mensaje
+
+			// resumen del mensaje
 			MessageDigest md5;
 			try {
 				md5 = MessageDigest.getInstance("MD5");
 				md5.update(mensaje);
 				byte[] hashBytes = md5.digest(); // crear hash
-				
-				if(hashBytes.length>(tam/8)-11){
+
+				if (hashBytes.length > (tam / 8) - 11) {
 					System.out.println("Tamaño maximo sobrepasado para este tamaño de clave de RSA");
 					System.out.println("tamaño clave: " + tam + ", tamaño mensaje: " + hashBytes.length
 							+ ", tamaño maximo: " + (tam / 8 - 11));
-				}else{
-					
+				} else {
+
 					Cipher cipher;
 					try {
 						cipher = Cipher.getInstance("RSA/ECB/PKCS1Padding");
-						cipher.init(Cipher.ENCRYPT_MODE, rk);	//se manda la firma encriptada con la privada
+						cipher.init(Cipher.ENCRYPT_MODE, rk); // se manda la
+																// firma
+																// encriptada
+																// con la
+																// privada
 						byte[] encryptedBytes = cipher.doFinal(hashBytes);
-						cipher.init(Cipher.DECRYPT_MODE, pk);	//la firma se desencripta con la publica del remitente
+						cipher.init(Cipher.DECRYPT_MODE, pk); // la firma se
+																// desencripta
+																// con la
+																// publica del
+																// remitente
 						byte[] decryptedBytes = cipher.doFinal(encryptedBytes);
-						//comparar el hash del mensaje que nos ha llegado con el desencriptado de la firma
-						//comparar los resumenes (si son iguales, todo es correcto)
-						boolean exito=true;
-						for(int i=0; i<hashBytes.length;i++){	//comparar bit a bit
-							if(hashBytes[i]!=decryptedBytes[i]){
-								exito=false;
+						// comparar el hash del mensaje que nos ha llegado con
+						// el desencriptado de la firma
+						// comparar los resumenes (si son iguales, todo es
+						// correcto)
+						boolean exito = true;
+						for (int i = 0; i < hashBytes.length; i++) { // comparar
+																		// bit a
+																		// bit
+							if (hashBytes[i] != decryptedBytes[i]) {
+								exito = false;
 							}
 						}
-						if(hashBytes.length != decryptedBytes.length){
+						if (hashBytes.length != decryptedBytes.length) {
 							exito = false;
 						}
-						if(exito){System.out.println("Mensaje correcto");}else{System.out.println("Algo ha ido mal");}
+						if (exito) {
+							System.out.println("Mensaje correcto");
+						} else {
+							System.out.println("Algo ha ido mal");
+						}
 					} catch (NoSuchAlgorithmException | NoSuchPaddingException e) {
-						
+
 						e.printStackTrace();
 					} catch (InvalidKeyException e) {
-						
+
 						e.printStackTrace();
 					} catch (IllegalBlockSizeException e) {
-						
+
 						e.printStackTrace();
 					} catch (BadPaddingException e) {
-						
+
 						e.printStackTrace();
 					}
-				
+
 				}
 			} catch (NoSuchAlgorithmException e1) {
 				e1.printStackTrace();
@@ -246,12 +231,13 @@ public class Practica5 {
 		} catch (NoSuchAlgorithmException e2) {
 			e2.printStackTrace();
 		}
-		
+
 	}
-	
+
 	/**
 	 * Genera 100 mensajes aleatorios, los cifra y descifra con cifrado
 	 * simetrico y asimetrico y muestra una comparativa de los tiempos
+	 * 
 	 * @param maxTam
 	 */
 	private static void comparativasCifrado(int maxTam) {
@@ -260,11 +246,12 @@ public class Practica5 {
 		long[] descifradoAsimetrico = new long[100];
 		long[] cifradoASimetrico = new long[100];
 		int mediaCifradoSimetrico, mediaCifradoAsimetrico, mediaDesSimetrico, mediaDesAsimetrico;
-		for(int i=0; i<100; i++){
+		for (int i = 0; i < 100; i++) {
 			try {
 				byte[] rawBytes = generateMessage(maxTam).getBytes("UTF-8");
-//				cifradoSimetrico[i] = 
-				//TODO: modificar los metodos para poder obtener todos los tiempos por separado??
+				// cifradoSimetrico[i] =
+				// TODO: modificar los metodos para poder obtener todos los
+				// tiempos por separado??
 			} catch (UnsupportedEncodingException e) {
 				e.printStackTrace();
 			}
@@ -281,8 +268,9 @@ public class Practica5 {
 	 * @throws NoSuchAlgorithmException
 	 */
 	private static int cifrarAsimetrico(byte[] mensaje, int modo) throws NoSuchAlgorithmException {
-		//TODO: quitar el print del mensaje desencriptado cuando no haga falta, ya sabemos que va bien
-		//TODO: separar cifrar de descifrar con el modo?
+		// TODO: quitar el print del mensaje desencriptado cuando no haga falta,
+		// ya sabemos que va bien
+		// TODO: separar cifrar de descifrar con el modo?
 		try {
 			int tam = 1024 * 4;
 			KeyPairGenerator generator = KeyPairGenerator.getInstance("RSA");
@@ -290,7 +278,7 @@ public class Practica5 {
 			KeyPair pareja = generator.generateKeyPair();
 			PublicKey pk = pareja.getPublic();
 			PrivateKey rk = pareja.getPrivate();
-			if (mensaje == null) {	//comprobar tamaño maximo del mensaje
+			if (mensaje == null) { // comprobar tamaño maximo del mensaje
 				for (int i = 0; i < 1; i++) {
 					String fichero = "textos/wiki" + (i + 1) + ".txt";
 					System.out.println(fichero);
@@ -311,26 +299,26 @@ public class Practica5 {
 					}
 					return (tam / 8 - 11);
 				}
-			}else{	//en comparativa con cifrado simetrico
-				
+			} else { // en comparativa con cifrado simetrico
+
 			}
 
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (NoSuchAlgorithmException e) {
-			
+
 			e.printStackTrace();
 		} catch (NoSuchPaddingException e) {
-			
+
 			e.printStackTrace();
 		} catch (InvalidKeyException e) {
-			
+
 			e.printStackTrace();
 		} catch (IllegalBlockSizeException e) {
-			
+
 			e.printStackTrace();
 		} catch (BadPaddingException e) {
-			
+
 			e.printStackTrace();
 		}
 		return 0;
@@ -345,79 +333,7 @@ public class Practica5 {
 	 */
 	private static void cifrarSimetrico(int modo) {
 		long[] times = new long[1];
-		// try {
 		for (int i = 0; i < 25; i++) {
-			// long t0 = System.nanoTime();
-			// KeyGenerator keyGen = null;
-			//
-			// keyGen = KeyGenerator.getInstance("DES");
-			// keyGen.init(56);
-			// SecretKey clave = keyGen.generateKey();
-			// // Cipher cifrador= Cipher.getInstance("DES/ECB/PKCS5Padding");
-			// Cipher cifrador = Cipher.getInstance("DES/ECB/NoPadding");
-			// // Algoritmo DES
-			// // Modo : ECB (Electronic Code Book)
-			// // Relleno : PKCS5Padding
-			// cifrador.init(Cipher.ENCRYPT_MODE, clave);
-			// byte[] bufferPlano = new byte[256];
-			// byte[] bufferCifrado;
-			// int bytesTotalesLeidos = 0;
-			// String textoCifradoTotal = new String();
-			// int aux = n;
-			// if(n>25 || n<1){
-			// Random r = new Random();
-			// aux = r.nextInt(1+25);
-			// }
-			// FileInputStream in = new FileInputStream("textos/wiki"+n+".txt");
-			// int bytesLeidos = in.read(bufferPlano, 0, 256);
-			// while (bytesLeidos != -1) { // Mientras no se llegue al final
-			// // del
-			// // fichero
-			// bytesTotalesLeidos += bytesLeidos;
-			// bufferCifrado = cifrador.update(bufferPlano, 0, bytesLeidos); //
-			// Pasa
-			// // texto
-			// // claro
-			// // leido
-			// // al
-			// // cifrador
-			// textoCifradoTotal = textoCifradoTotal + new String(bufferCifrado,
-			// "UTF-8"); // Acumular
-			// // texto
-			// // cifrado
-			// bytesLeidos = in.read(bufferPlano, 0, 256);
-			// }
-			// in.close();
-			// bufferCifrado = cifrador.doFinal(); // Completar cifrado (puede
-			// // devolver texto)
-			// textoCifradoTotal = textoCifradoTotal + new
-			// String(bufferCifrado);
-			//
-			// // System.out.println("--------------- TEXTO CIFRADO
-			// // ---------------");
-			// // System.out.println(textoCifradoTotal); // Mostrar texto
-			// // cifrado
-			// //
-			// System.out.println("---------------------------------------------");
-			//
-			// System.out.println("--------------- TEXTO DESCIFRADO
-			// -------------");
-			// /* PASO 3b: Poner cifrador en modo DESCIFRADO */
-			// cifrador.init(Cipher.DECRYPT_MODE, clave);
-			// byte[] textoDescifrado =
-			// cifrador.update(textoCifradoTotal.getBytes()); // Pasar
-			// // texto
-			// // al
-			// // descifrador
-			// System.out.print(new String(textoDescifrado,"UTF-8"));
-			// textoDescifrado = cifrador.doFinal(); // Completar descifrado
-			// // (puede
-			// // devolver texto)
-			// System.out.print(new String(textoDescifrado));
-			// System.out.println("----------------------------------------------");
-			// long t1 = System.nanoTime();
-			// long tiempo = (long) ((t1 - t0) / 1000);
-			// times[i] = tiempo;
 			KeyGenerator generator;
 			try {
 				generator = KeyGenerator.getInstance("Blowfish");
@@ -435,22 +351,22 @@ public class Practica5 {
 				byte[] decryptedBytes = cipher.doFinal(encryptedBytes);
 				System.out.println(new String(decryptedBytes, "UTF-8"));
 			} catch (NoSuchAlgorithmException e) {
-				
+
 				e.printStackTrace();
 			} catch (IOException e) {
-				
+
 				e.printStackTrace();
 			} catch (NoSuchPaddingException e) {
-				
+
 				e.printStackTrace();
 			} catch (InvalidKeyException e) {
-				
+
 				e.printStackTrace();
 			} catch (IllegalBlockSizeException e) {
-				
+
 				e.printStackTrace();
 			} catch (BadPaddingException e) {
-				
+
 				e.printStackTrace();
 			}
 
@@ -462,23 +378,6 @@ public class Practica5 {
 		}
 		tiempo = (long) (tiempo / times.length);
 		System.out.println("SIMETRICO) Tiempo: " + tiempo + " milisegundos");
-
-		// catch (NoSuchAlgorithmException e) {
-		// e.printStackTrace();
-		// } catch (NoSuchPaddingException e) {
-		// e.printStackTrace();
-		// } catch (InvalidKeyException e) {
-		// e.printStackTrace();
-		// } catch (FileNotFoundException e) {
-		// e.printStackTrace();
-		// } catch (IOException e) {
-		// e.printStackTrace();
-		// } catch (IllegalBlockSizeException e) {
-		// e.printStackTrace();
-		// } catch (BadPaddingException e) {
-		// e.printStackTrace();
-		// }
-
 	}
 
 	/**
