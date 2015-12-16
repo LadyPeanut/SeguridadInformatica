@@ -92,8 +92,9 @@ public class Practica5 {
 	 * @throws IllegalBlockSizeException 
 	 * @throws NoSuchPaddingException 
 	 * @throws InvalidKeyException 
+	 * @throws IOException 
 	 */
-	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException {
+	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException, IOException {
 		int n = -1;
 		String path = null;
 
@@ -141,28 +142,33 @@ public class Practica5 {
 		}
 		 
 		// cifrado de textos
-		 // cifrado con clave secreta (cifrado simetrico)
-		 try { //cifra 25 paginas de texto plano (extraidas de wikipedia)
-		 cifrarSimetrico(-1);
-		
-		 } catch (Exception e) {
-		 e.printStackTrace();
-		 }
+		 firma(n);
 		 
-		 // cifrado con clave publica y privada
-		int maxTam = cifrarAsimetrico(null, 1);
-		comparativasCifrado(maxTam);
-		
-		firma(n);
+		 int maxTam = 100;
+		 comparativasCifrado(maxTam);
+		 comparativasCifrado();
 	}
 
 	private static void firma(int n) {
+		long[] times = new long[n];
 		try {
 			for (int i = 0; i < n; i++) {
 				byte[] mensaje = generateMessage(256).getBytes("UTF-8");
+				
+				long t0 = System.nanoTime();
 				firma(mensaje, mensaje.length);
+				long t1 = System.nanoTime();
+				
+				times[i] = (t1 - t0);
 			}
-
+			
+			long time = 0;
+			for (int i = 0; i < n; i++) {
+				time += times[i];
+			}
+			time = time / n;
+			
+			System.out.println("FIRMA) Tiempo: " + time + " milisegundos");
 		} catch (UnsupportedEncodingException e) {
 			e.printStackTrace();
 		}
@@ -229,7 +235,7 @@ public class Practica5 {
 							exito = false;
 						}
 						if (exito) {
-							System.out.println("Mensaje correcto");
+//							System.out.println("Mensaje correcto");
 						} else {
 							System.out.println("Algo ha ido mal");
 						}
@@ -329,10 +335,56 @@ public class Practica5 {
 		mediaDesAsimetrico = mediaDesAsimetrico / 100;
 		mediaDesSimetrico = mediaDesSimetrico / 100;
 		
-		System.out.println("CIFRADO)(clave publica-privada) Tiempo: " + mediaCifradoAsimetrico + " milisegundos");
-		System.out.println("CIFRADO)(clave privada) Tiempo: " + mediaCifradoSimetrico + " milisegundos");
-		System.out.println("DESCIFRADO)(clave publica-privada) Tiempo: " + mediaDesAsimetrico + " milisegundos");
-		System.out.println("DESCIFRADO)(clave privada) Tiempo: " + mediaDesSimetrico + " milisegundos");
+		System.out.println("CIFRADO 100)(clave publica-privada) Tiempo: " + mediaCifradoAsimetrico + " milisegundos");
+		System.out.println("DESCIFRADO 100)(clave publica-privada) Tiempo: " + mediaDesAsimetrico + " milisegundos");
+		System.out.println("CIFRADO 100)(clave privada) Tiempo: " + mediaCifradoSimetrico + " milisegundos");
+		System.out.println("DESCIFRADO 100)(clave privada) Tiempo: " + mediaDesSimetrico + " milisegundos");
+	}
+	
+	private static void comparativasCifrado() throws 
+			NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, 
+			IllegalBlockSizeException, BadPaddingException, IOException {
+		long[] cifradoSimetrico = new long[100];
+		long[] descifradoSimetrico = new long[100];
+		
+		int mediaCifradoSimetrico = 0, mediaDesSimetrico = 0;
+		for (int i = 0; i < 25; i++) {
+			try {
+				String fichero = "textos/wiki" + (i + 1) + ".txt";
+				Path path = Paths.get(fichero);
+				byte[] rawBytes = Files.readAllBytes(path);
+				
+				Key simetrica = getClaveSimetrica();
+				
+				// cifrar asimetrico
+				long t0 = System.nanoTime();
+				byte[] simEnc = cifrarSimetrico(rawBytes, simetrica);
+				long t1 = System.nanoTime();
+				long tiempo = (long) ((t1 - t0) / 1000);
+				cifradoSimetrico[i] = tiempo;
+				
+				// descifrar simetrico
+				t0 = System.nanoTime();
+				descifrarSimetrico(simEnc, simetrica);
+				t1 = System.nanoTime();
+				tiempo = (long) ((t1 - t0) / 1000);
+				descifradoSimetrico[i] = tiempo;
+
+			} catch (UnsupportedEncodingException e) {
+				e.printStackTrace();
+			}
+		}
+		
+		for (int i = 0; i < 100; i++) {
+			mediaCifradoSimetrico += cifradoSimetrico[i];
+			mediaDesSimetrico += descifradoSimetrico[i];
+		}
+		
+		mediaCifradoSimetrico = mediaCifradoSimetrico / 100;
+		mediaDesSimetrico = mediaDesSimetrico / 100;
+		
+		System.out.println("CIFRADO 25W)(clave privada) Tiempo: " + mediaCifradoSimetrico + " milisegundos");
+		System.out.println("DESCIFRADO 25W)(clave privada) Tiempo: " + mediaDesSimetrico + " milisegundos");
 	}
 	
 	private static KeyPair getClaveAsimetrica() throws NoSuchAlgorithmException{
@@ -396,116 +448,8 @@ public class Practica5 {
 	 * 
 	 * @throws NoSuchAlgorithmException
 	 */
-	private static int cifrarAsimetrico(byte[] mensaje, int modo) throws NoSuchAlgorithmException {
-		// TODO: quitar el print del mensaje desencriptado cuando no haga falta,
-		// ya sabemos que va bien
-		// TODO: separar cifrar de descifrar con el modo?
-		try {
-			int tam = 1024 * 4;
-			KeyPairGenerator generator = KeyPairGenerator.getInstance("RSA");
-			generator.initialize(tam);
-			KeyPair pareja = generator.generateKeyPair();
-			PublicKey pk = pareja.getPublic();
-			PrivateKey rk = pareja.getPrivate();
-			if (mensaje == null) { // comprobar tamaño maximo del mensaje
-				int i = 0;
-				String fichero = "textos/wiki" + (i + 1) + ".txt";
-				System.out.println(fichero);
-				Path path = Paths.get(fichero);
-				byte[] rawBytes = Files.readAllBytes(path);
-				if (rawBytes.length > (tam / 8 - 11)) {
-					System.out.println("Tamaño maximo sobrepasado para este tamaño de clave de RSA");
-					System.out.println("tamaño clave: " + tam + ", tamaño mensaje: " + rawBytes.length
-							+ ", tamaño maximo: " + (tam / 8 - 11));
-				} else {
-					Cipher cipher = Cipher.getInstance("RSA/ECB/PKCS1Padding");
-					cipher.init(Cipher.ENCRYPT_MODE, rk);
-					byte[] encryptedBytes = cipher.doFinal(rawBytes);
-					cipher.init(Cipher.DECRYPT_MODE, pk);
-					cipher.doFinal(encryptedBytes);
-				}
-				return (tam / 8 - 11);
-			} else { // en comparativa con cifrado simetrico
-
-			}
-
-		} catch (IOException e) {
-			e.printStackTrace();
-		} catch (NoSuchAlgorithmException e) {
-
-			e.printStackTrace();
-		} catch (NoSuchPaddingException e) {
-
-			e.printStackTrace();
-		} catch (InvalidKeyException e) {
-
-			e.printStackTrace();
-		} catch (IllegalBlockSizeException e) {
-
-			e.printStackTrace();
-		} catch (BadPaddingException e) {
-
-			e.printStackTrace();
-		}
-		return 0;
-
-	}
-
-	/**
-	 * Utilizamos una unica clave, secreta, para encriptar 25 paginas de la
-	 * wikipedia
-	 * 
-	 * @param string
-	 */
-	private static void cifrarSimetrico(int modo) {
-		long[] times = new long[1];
-		for (int i = 0; i < 25; i++) {
-			KeyGenerator generator;
-			try {
-				generator = KeyGenerator.getInstance("Blowfish");
-				generator.init(128);
-				Key clave = generator.generateKey();
-				String fichero = "textos/wiki" + (i + 1) + ".txt";
-				System.out.println(fichero);
-				Path path = Paths.get(fichero);
-				byte[] rawBytes = Files.readAllBytes(path);
-				Cipher cipher = Cipher.getInstance("Blowfish/ECB/PKCS5Padding");
-				cipher.init(Cipher.ENCRYPT_MODE, clave);
-				byte[] encryptedBytes = cipher.doFinal(rawBytes);
-				System.out.println("----------------------------------------------");
-				cipher.init(Cipher.DECRYPT_MODE, clave);
-				byte[] decryptedBytes = cipher.doFinal(encryptedBytes);
-				System.out.println(new String(decryptedBytes, "UTF-8"));
-			} catch (NoSuchAlgorithmException e) {
-
-				e.printStackTrace();
-			} catch (IOException e) {
-
-				e.printStackTrace();
-			} catch (NoSuchPaddingException e) {
-
-				e.printStackTrace();
-			} catch (InvalidKeyException e) {
-
-				e.printStackTrace();
-			} catch (IllegalBlockSizeException e) {
-
-				e.printStackTrace();
-			} catch (BadPaddingException e) {
-
-				e.printStackTrace();
-			}
-
-		}
-		// calcular la media de iteraciones
-		long tiempo = 0;
-		for (int i = 0; i < times.length; i++) {
-			tiempo += times[i];
-		}
-		tiempo = (long) (tiempo / times.length);
-		System.out.println("SIMETRICO) Tiempo: " + tiempo + " milisegundos");
-	}
-
+	
+	
 	/**
 	 * Obtener hash
 	 * 
