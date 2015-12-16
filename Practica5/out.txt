@@ -1,0 +1,14 @@
+HASH) Tiempo: 2926 milisegundos
+Tam 1 --> KEY GENERATION) Tiempo: 71177 milisegundos
+Tam 2 --> KEY GENERATION) Tiempo: 428876 milisegundos
+Tam 3 --> KEY GENERATION) Tiempo: 2086451 milisegundos
+ALMACENAMIENTO)(3 pares de claves) Tiempo: 28481 milisegundos
+LECTURA)(clave publica) Tiempo: 2544 milisegundos
+LECTURA)(clave privada) Tiempo: 685 milisegundos
+FIRMA) Tiempo: 5595100 milisegundos
+CIFRADO 100)(clave publica-privada) Tiempo: 25946 milisegundos
+DESCIFRADO 100)(clave publica-privada) Tiempo: 657 milisegundos
+CIFRADO 100)(clave privada) Tiempo: 360 milisegundos
+DESCIFRADO 100)(clave privada) Tiempo: 197 milisegundos
+CIFRADO 25W)(clave privada) Tiempo: 146 milisegundos
+DESCIFRADO 25W)(clave privada) Tiempo: 131 milisegundos
