@@ -1,0 +1,201 @@
+﻿Juego de rol
+Para otros usos, véase Interpretación de roles.
+Para los videojuegos, véase Videojuego de rol.
+Para la práctica sadomasoquista, véase Juego de rol (BDSM).
+
+Un grupo de jugadores de rol participando en una sesión privada en un domicilio particular.
+Un juego de rol (traducción típica en español del inglés role-playing game, literalmente «juego de interpretación de roles») es un juego en el que, tal como indica su nombre, uno o más jugadores desempeñan un determinado rol, papel o personalidad. Cuando una persona hace el papel de X significa que está interpretando un papel que normalmente no hace.
+
+Índice  [ocultar] 
+1 Orígenes
+2 Definición
+3 ¿En qué consiste un juego de rol?
+3.1 El director de juego
+3.2 Componentes y objetivos
+3.3 Diferencias respecto a otros juegos: colaborar, no competir
+3.4 Jugar una aventura
+3.5 Variantes de juego de rol
+4 Temáticas para juegos de rol
+4.1 Históricos
+4.2 Históricos con parte fantástica
+4.2.1 Terror
+4.3 Ucronía (realidad alternativa)
+4.4 Fantasía épico-medieval
+4.4.1 Espada y brujería
+4.5 Ficción completa o futura
+4.5.1 Ciencia ficción futurista
+4.5.2 Space Opera
+5 Aportes de los juegos de rol
+5.1 Beneficios en la educación
+5.2 Aporte a determinadas actitudes
+5.3 Aporte para un buen estado de salud mental
+5.4 Críticas a los juegos de rol
+6 Véase también
+7 Referencias
+8 Fuentes originales
+9 Enlaces externos
+Orígenes[editar]
+Artículo principal: Historia de los juegos de rol
+Este concepto fue tomando forma hasta que en 1974 se publicó Dungeons & Dragons, que estaba basado en la mecánica de los juegos de estrategia (wargames), introduciendo elementos de fantasía. A finales de los años 1960 se desarrolló en Estados Unidos un nuevo concepto de juego. Concretamente, se atribuye al profesor de sociología del Boston College William A. Gamson, creador en 1966 del SimSoc (Simulated Society), juego utilizado en universidades y otros grupos para enseñar diversos aspectos de la sociología, ciencia política y habilidades de comunicación.1 En este juego no había ni fichas, ni tablero, ni siquiera unas reglas estrictas; únicamente se basaba en la interpretación, en el diálogo, la imaginación y en el sentido de empresa y de aventura heroica. Sus autores, sin embargo, tuvieron que publicarlo por cuenta propia porque ninguna editorial confiaba en que se vendiera con suficiente éxito.2 A esta nueva modalidad de juego se la llamó «juego de rol», de la palabra francesa rôle, que significa ‘papel’ en el sentido del personaje que interpreta un actor.
+
+En un mundo cada vez más basado en la comunicación audiovisual, este nuevo tipo de juego conoció un éxito sin precedentes, en especial entre el público juvenil. Hoy en día hay miles de juegos de rol diferentes por todo el mundo, redactados en más de una docena de lenguas.3 Muchos de ellos están disponibles en Internet de forma gratuita.
+
+Definición[editar]
+
+Ejemplo de partida de rol, efectuada en la convención Burg-Con 2009 de Berlín. El director de juego se encuentra detrás de la pantalla, y los jugadores, alrededor de la mesa, lo escuchan atentamente.
+Un juego de rol es un juego interpretativo-narrativo en el que los jugadores asumen el «rol» de personajes imaginarios a lo largo de una historia o trama en la que interpretan sus diálogos y describen sus acciones. No hay un guión a seguir, ya que el desarrollo de la historia queda por completo sujeto a las decisiones de los jugadores. Por esta razón, la imaginación, la narración oral, la originalidad y el ingenio son primordiales para el adecuado desarrollo de esta forma dramatúrgica. En cierto modo los juegos de rol son la versión adulta de los juegos de fantasía infantiles, como «policías y ladrones», «mamá y papá» o «indios y vaqueros», en los que los niños se imaginan ser un personaje que en realidad no son.
+
+Más en profundidad, la etimología del nombre nos remite a su significado original. Según el DRAE: «rol. → papel. Cargo o función que alguien o algo cumple en alguna situación o en la vida.»4 Efectivamente, en los juegos de rol cada jugador interpreta un personaje ficticio, con una serie de características propias que lo definen. La interpretación del personaje no debe ser tan rigurosa como en una obra de teatro. En el rol no hay guiones por los cuales regirse. Cada jugador definirá el carácter de su personaje según sus propios criterios y, durante una partida, responderá a las diversas situaciones que le puedan surgir decidiendo en el momento las acciones de este personaje, es decir, improvisando.
+
+Así pues, una partida de rol no sigue un guion prefijado, sino que la «historia» se va creando con el transcurso de la partida. De forma similar al juego infantil, cuando un jugador anuncia «Ahora yo te disparo», el otro puede responder: «Y yo te lo esquivo». Corresponde al director de juego (ver abajo) el decidir hasta qué punto debe quedar la partida en manos del azar, pudiendo intervenir en cualquier momento para reconducir la trama en una u otra dirección.
+
+Otro aspecto que diferencia a los juegos de rol de otros juegos es que cada jugador interpreta a un personaje único y diferente, con personalidad y características distintas, dependiendo del deseo del jugador a la hora de crear su personaje, o de los requisitos del director de juego en el momento de repartirlos. El concepto básico es que los jugadores persiguen un fin común, y deben cooperar entre ellos (aunque a veces esta regla no se cumple), y los personajes pueden ser complementarios; unos destacan en habilidades y capacidades físicas, otros en intelectuales o sociales, y, si la temática del juego lo permite, otros pueden tener habilidades místicas (magia, milagros, etc.). Todas esas características se indican en una hoja de personaje, que varía según el sistema de juego.
+
+¿En qué consiste un juego de rol?[editar]
+
+Dados típicos de diferente número de caras utilizados en diversos juegos de rol.
+Como en la mayoría de las actividades que la humanidad realiza, sobre todo las recreativas, no hay una sola forma de jugar estos juegos. Los lineamientos siguientes representan la mayoría de los juegos de rol en el mercado, aunque hay miles de variantes.
+
+El director de juego[editar]
+El curso de las partidas está supervisado por uno de los participantes del juego, al que no se designa como «jugador» sino que se le distingue de los jugadores mediante el término «director de juego» (aunque también se le llama game master, master, «guía», «árbitro» o «narrador», entre otros). El director de juego es quien cumple las funciones de narrador de la historia y mediador entre los jugadores, e interpreta a aquellos personajes no caracterizados por estos, los personajes no jugadores. Por lo general se entiende que el director de juego interpreta todo aquello que no es competencia de los PJ («personajes jugadores»), ya sean PNJ («personajes no jugadores») o todos los demás elementos de la ambientación: animales, plantas, meteorología, criaturas fantásticas, dioses, sucesos físicos, sucesos mágicos y un largo etcétera. Otras tareas no menos importantes de su competencia son la de árbitro de las reglas y la de imaginar y describir el escenario y las circunstancias que suceden en la partida.
+
+Componentes y objetivos[editar]
+Para jugar a rol se deben reunir por lo menos dos personas, en una o más sesiones de juego. Como ya se ha dicho una de ellas es siempre el director de juego, encargado de dirigir el hilo argumental de la partida. La otra persona o las demás personas son jugadores que interpretarán su propio personaje durante la partida. Se suelen seguir unas pautas de juego preestablecidas y conocidas como sistema de juego, aunque se pueden jugar partidas sin más aporte que el de la imaginación.
+
+Las partidas o sesiones suelen estar ambientadas en un tiempo/mundo o escenario de campaña, lo que da una continuidad y realismo al juego.
+
+Aunque se puede jugar con la simple comunicación entre director de juego y jugadores, una partida típica consta de los siguientes elementos:
+
+Mesa, sobre la que se pone el material necesario para jugar y alrededor de la cual se sientan los jugadores.
+Hojas de papel, lápices y otros elementos para tomar apuntes, dibujar mapas o realizar otra clase de dibujos descriptivos.
+Dados, que aportan la parte de azar objetivo que hay en la resolución de toda acción de personaje o de todo evento que suceda en el mundo de juego. En general el director de juego pide a los jugadores tiradas de dados para acciones que o bien tienen cierta dificultad o bien pueden generar un conflicto de intereses. Las tiradas pueden ser «activas» o «pasivas». Por ejemplo, un jugador quiere robar una daga que cuelga del cinto de un personaje no jugador. El director de juego le dice entonces que haga dos tiradas «activas», una de «sigilo» y otra de «trucos de manos». Dependiendo de los valores del personaje en esas habilidades más el resultado de las tiradas de dados, el personaje logrará su acción con éxito o no. Adicionalmente, el director de juego podría decidir el uso de una tirada «pasiva» para determinar si el personaje no jugador percibe que alguien está tratando de robarle, aunque sólo se suele utilizar si hay dudas sobre el éxito de la maniobra.
+Libros para consultar normas, aventuras prefabricadas o datos interesantes. De forma generalizada un juego de rol es esencialmente un libro que se encuentra a la venta en tiendas especializadas y que expone las reglas necesarias para poder jugar, incluyendo un modelo de hoja de personaje listo para ser fotocopiado. Las editoriales de cada uno de estos libros suelen publicar otros libros llamados «suplementos» o «módulos» y que enriquecen el universo de ficción en el que se desarrollan las partidas. Una categoría habitual de estos «suplementos» son las llamadas «aventuras» o «escenarios», que aportan los elementos narrativos necesarios para jugar una partida determinada.
+Hojas de personaje, una por jugador. Cada una describe las estadísticas (características, habilidades y otros datos referentes al personaje) de un único personaje interpretado por un único jugador. La hoja de personaje incluye información sobre todo aquello que pueda ser del interés del personaje (historial, descripción, ropa que lleva, armas, capacidad para usarlas, idiomas que domina y otras habilidades u objetos en su poder). En la inmensa mayor parte de los casos la hoja de personaje es la única página que el manual de un juego de rol autoriza a ser fotocopiada, de este modo los jugadores pueden obtener las hojas de personaje necesarias para poder jugar. A medida que un personaje evoluciona a lo largo de las partidas los datos que lo describen pueden ir cambiando, por lo que cada hoja de personaje debe ser rellenada con lápiz, para poder borrar y actualizar los cambios necesarios. Sólo en casos excepcionales, un jugador puede interpretar a varios personajes, con sus respectivas hojas (al igual que ocurre con el director de juego, que puede interpretar a decenas de personajes no jugadores, e incluso a PJs si el jugador que lo dirige está ausente).
+Pantalla del director de juego, no imprescindible, consiste en un objeto que oculta el área de la mesa del director de juego, donde éste pone a su disposición los elementos que constituyen la partida o el escenario previstos para los jugadores, lo que permite mantener el suspense requerido para el buen desarrollo del juego, ya que los jugadores no pueden ver qué les tiene preparado el narrador. Normalmente esta pantalla consiste en un díptico, tríptico o cuatríptico de cartulina, que puede contener información útil para el director de juego, evitando así el uso innecesario del libro de reglas.
+Mapas para situar a los personajes. Pueden ser cartográficos (de continentes, países o territorios) o a menor escala, llegando a poder usarse de tablero.
+Tablero. El uso de tablero no es necesario, de hecho el rol se define por la propiedad de tener reglas simulacionistas para situaciones puramente imaginarias no representadas sobre un tablero. El tablero es de todos modos una opción que jugadores y director de juego pueden elegir si lo desean, todo depende de la forma en que desean resolver sus acciones. En caso de usarse, se utilizarán piezas o figuras que simbolizan la posición de cada personaje jugador, no jugador y otras criaturas y objetos. Según la dirección en la que esté dirigida cada figura también se pueden determinar ciertos aspectos del juego, como el campo visual, el área de ataque o disparo, los ataques por sorpresa, por la espalda, etc.
+Elementos accesorios y de decoración, desde maquetas a disfraces para ambientar mejor el juego.
+Los jugadores tienen siempre como objetivo interpretar las acciones conscientes de sus personajes en el hilo argumental que se va relatando. Normalmente el objetivo es cumplir entre todos la misión que ha propuesto el director del juego, aunque el juego se puede matizar con diferentes enfoques, por ejemplo acumular riquezas, resolver enigmas o simplemente mantener vivos a sus personajes, o bien conseguir el mayor grado de realismo.
+
+Durante el juego cada jugador decidirá qué acciones lleva a cabo su personaje. El director de juego decidirá si tales acciones pueden llevarse a cabo, y si es así decidirá su dificultad, que será resuelta por el sentido común o por una o varias tiradas de dado, siempre con base en las reglas del juego. El director de juego también decidirá las acciones de los personajes no jugadores (PNJ) y del resto de elementos del entorno.
+
+Diferencias respecto a otros juegos: colaborar, no competir[editar]
+En casi todos los juegos conocidos hasta la aparición de los juegos de rol (ajedrez, Monopoly, Risk...) el objetivo final —aparte de la diversión— se basaba en la victoria de un jugador respecto a los demás, o como mucho, la de un grupo de jugadores respecto a otros. En los juegos de rol se sustituye el concepto de competición por el de colaboración, y ésta es una diferencia esencial entre los juegos de rol y el resto de juegos. En una partida de rol los jugadores no sólo deben interpretar a su personaje, sino que además deben cumplir una misión, en la mayoría de los juegos de rol no puede haber ganadores o perdedores sino grupos o equipos. Por ejemplo, en el libro El nombre de la rosa, el maestro y su discípulo deben resolver una serie de asesinatos ocurridos en una abadía; en las películas de James Bond, éste debe salvar el mundo con la ayuda de sus aliados etc. Para cumplir la misión satisfactoriamente todos los jugadores deben unir sus fuerzas y colaborar para sacar adelante el objetivo común. Mientras que los juegos son caracterizados por sus herramientas, también pueden ser definidos por sus reglas. Cuando éstas sufren numerosas variaciones y cambios generalmente da lugar a un «nuevo» juego.
+
+Jugar una aventura[editar]
+Como ya se ha dicho hay entre los jugadores uno que juega de forma diferente. Asume un rol importante e imprescindible que es el de director de juego, narrador, o master (en ciertos juegos tiene un nombre específico, por ejemplo en La llamada de Cthulhu se le conoce como «guardián de los arcanos»). Es el encargado de explicar las situaciones a los demás jugadores. Su rol es el más difícil, debe haber preparado la aventura a conciencia y dominar todos los detalles, antes de plantearlo al resto de jugadores. Es importante destacar que no todos los jugadores reaccionan de la misma manera ante una situación, por lo que el director de juego debe tener preparadas, por lo menos, alternativas para las reacciones más habituales. Crea la base de una historia, que los jugadores van moldeando y retocando a partir de las acciones que realizan sus personajes a lo largo de la trama. Para ello se suele basar en una serie de reglas recogidas en libros, que varían para cada sistema de rol, y para un mismo sistema dependiendo de la ambientación.
+
+Las reglas son una buena guía, pero no siempre son aplicadas de manera estricta, sino que cada master es libre de moldearlas de acuerdo a su manera de jugar y la del grupo, especialmente si es para hacer la partida más divertida. Esto se conoce popularmente como la Regla de oro del rol: No hay reglas, sino orientaciones.
+
+Hay que recordar, ante todo, que un juego de rol se basa en la interpretación y en la capacidad de improvisación de los jugadores y del master; por lo tanto, restringir el avance de la partida a una serie de reglas escritas es, según algunos, eliminar el mayor punto de diversión. Aun así hay estilos de juego que propugnan no apartarse de las opciones dadas por las reglas estrictamente. Las aventuras las puede crear el mismo director de juego para su partida, aunque hay muchas que se comercializan o se distribuyen por internet.
+
+Variantes de juego de rol[editar]
+
+Un grupo de aventureros en un juego de rol en vivo medieval-fantástico en el Château de Couzan, en Francia.
+Hay varias formas de jugar a rol. La más común y tradicional es la variante llamada «rol de mesa» sobre la que trata principalmente el presente artículo. No se llama «de mesa» porque la mesa sea indispensable sino por su cercanía o identidad con los juegos de mesa tradicionales. De hecho, poder estar sentado a una mesa es la forma más confortable de llevar el juego a cabo. Otra variante es el rol en vivo, en la que los participantes actúan «en el mundo real», ya sea disfrazándose e interpretando a sus personajes en un lugar apropiado (un bosque, una propiedad privada etc.), ya sea viviendo cotidianamente pero actuando mediante códigos previamente establecidos. Por ejemplo, en el juego de rol en vivo Killer, concebido por Steve Jackson en 1982 en Estados Unidos y traducido al castellano en 1991,5 acercarse por detrás de un compañero de trabajo y susurrarle a la oreja las palabras «estás muerto» puede bastar para representar un asesinato en medio del lugar de trabajo, sin que las personas que no participan en el juego tengan por qué saber que dos de sus compañeros de trabajo viven su vida cotidiana mezclada con la representación de un juego de rol. En la variante de rol en vivo «con disfraz» la organización puede llegar a ser muy compleja: hay que asegurarse de encontrar un lugar adaptado en el que no se molestará a nadie y no se será molestado, hay que tomar el tiempo de preparar los disfraces etc. Además, el tiempo de juego estará limitado por el tiempo mismo que los jugadores dispongan para poder reunirse en el lugar concertado (a veces alojandose in situ, si los organizadores lo consideran necesario). En la variante de rol en vivo «cotidiano» la organización requiere el control de menos elementos y el tiempo de juego es mucho más dilatado. En esta última variante se establecen dos fechas, una de inicio y otra de fin, y al finalizar ese plazo se cuentan los «muertos» o los gestos realizados y el director o directores de juego deciden qué equipos o qué jugadores han obtenido los mejores resultados.
+
+Finalmente, otras variantes de juego de rol también emprendidas por ciertos jugadores son el rol por correo, el rol por correo electrónico y el rol por foro. Podría decirse pues, resumiendo, que existen las siguientes variantes de juego de rol:
+
+Juego de rol de mesa (el que principalmente describe el presente artículo).
+Juego de rol en vivo (escenificado con disfraces y maquillajes o jugado simultáneamente con la rutina cotidiana).
+Juego de rol por correo postal. Esta variante está desapareciendo paulatinamente desde que los medios de comunicación electrónicos reemplazan poco a poco al correo tradicional, al menos en lo que se refiere a la simple transmisión de información.
+Juego de rol por correo electrónico (jugado por correo electrónico).
+Juego de rol por mensajería instantánea (Jugado por mensajería instantánea como MSN, popular entre la subcultura furry, el mayor inconveniente es que a mayor cantidad de integrantes más confuso y desorganizado se vuelve).
+MUD de tipo juego de rol (Juegos MUD son similares a los juegos MMORPG pero basado en el texto. Algunos juegos MUD no se centran en números, sino fomentan la narración de cuentos por colaboración.)6 7
+Juego de rol por foro (jugado a través de un foro).
+Juego de rol por redes sociales Mediante cuentas de perfil o páginas los participantes juegan en tiempo real, siempre centrados en alguna narración basada en la trama planteada.[cita requerida]
+Otra variación del los juegos de Rol se da ahora con el uso de telefonía IP (como Skype, o Net2Phone) en la cual se crea una conferencia entre los jugadores.
+Temáticas para juegos de rol[editar]
+Aunque muy a menudo se mete a los juegos de rol en el género de la fantasía épico-medieval con seres fantásticos muy estereotipados, (como elfos, magos y dragones), esto probablemente se deba a que el juego más famoso se basaba en las novelas de ese género (notablemente en las de Tolkien y Moorcock). La ambientación del rol en realidad tiene una infinidad de temáticas, limitadas sólo por la imaginación.
+
+Históricos[editar]
+Como su nombre indica, están basados en hechos reales, pero al ser la naturaleza de un juego de rol la de que los jugadores interactúen en la historia, estos juegos dan la posibilidad de intervenir en el desarrollo de dichos hechos, con la posibilidad de cambiar los acontecimientos que todos conocemos, o simplemente se utiliza el contexto histórico para ambientar lo que será la aventura en sí. Es requisito que los hechos sucedan en nuestro planeta en un tiempo pasado. Esta categoría es muy interesante para fines educativos.
+
+Algunos juegos de esta categoría son: ¡Piratas!, Far West, Comandos de guerra, Juego de rol del capitán Alatriste etc. Se entiende que en un juego histórico hay que limitarse a los hechos, a lo meramente factible y comprobable, y a la coherencia espacio-temporal. Por ello hay que tener cuidado con las «aportaciones libres» y fantásticas de los autores para no caer en lo irreal, que podría echar por tierra el objetivo puramente histórico. Por contra, al estar basados en la realidad, exige por parte de quien crear la aventura una gran cultura general, no sólo histórica sino también científica, cultural etc., pues se da el caso de que si los jugadores tienen un conocimiento mayor que el director de juego en alguno de los aspectos de la historia, aquellos podrían echar por tierra sus planes y quedar éste en ridículo. Los manuales que acompañan al juego suelen intentar dar la información mínima imprescindible para cubrir este punto, además de servir como material didáctico, pero hay que tener cuidado con las aportaciones «libres» de los autores.
+Históricos con parte fantástica[editar]
+Son los que, estando situados en un tiempo pasado o presente, y en nuestro mundo conocido, añaden detalles de fantasía (o de realidad no comprobada). Dentro de esta categoría estarían juegos como Oráculo, Pendragón, Aquelarre, Ars Magica, La Llamada de Cthulhu, la tercera edición de RuneQuest etc.
+
+Terror[editar]
+Este género literario pretende divertir a través de la creación del misterio, la intriga y el miedo. Para que esto sea posible, es necesario poner a los personajes en una situación creíble y coherente, por lo que se suele situar la acción en el mundo «real», en el pasado o en el presente, aunque también los hay en el futuro, pero eso entra en el ámbito de la ciencia ficción. Los juegos de terror suelen basarse en supersticiones culturales (demonios, ritos satánicos, espíritus, vampiros, etc) o pueden ser de base científica, como los basados en la obra de H.P. Lovecraft. Aunque habitualmente los protagonistas son personas «normales» (detectives, científicos, militares etc.), a raíz de juegos como Vampiro: la mascarada, los jugadores pudieron tomar el papel de las criaturas que son el origen de dicho terror: vampiros, hombres lobo, espíritus...
+
+Ucronía (realidad alternativa)[editar]
+Muchos juegos (como en el género literario que lleva tal título) plantean un mundo similar al nuestro, para poder salirse de las limitaciones que supondría ceñirse a la realidad (históricos), pero aprovechan detalles culturales ya conocidos que ayudan a su asimilación. La ucronía consiste en la reconstrucción ficticia de nuestro mundo real, pero a partir de cómo podría haber sido en vez de como es en su estado ya conocido. Dentro de esta categoría entrarían juegos como Castillo de Falkenstein o Space: 1889.
+
+Fantasía épico-medieval[editar]
+También llamada fantasía heroica, se basa en las gestas medievales europeas, donde un héroe viajaba, combatía y resolvía problemas intelectuales y morales, y de las leyendas y cuentos tradicionales, sobre todo de origen germánico. Esta idea fue evolucionando hasta que en el siglo XX diversos autores, entre ellos J.R.R. Tolkien, crearon un mundo ficticio nuevo, basado en la cultura del norte de Europa, pero abierto a la aparición de nuevas criaturas, especies, razas y culturas basadas en las leyendas, pero idealizadas y estereotipadas para cumplir funciones políticas y dramáticas. Muchos juegos de rol de esta categoría están basados en obras literarias, como El Señor de los Anillos, pero otros inspiraron una línea editorial paralela, que sirviera de apoyo promocional, como es el caso de todas las colecciones de novelas basadas en el juego de rol clásico Dungeons & Dragons (Crónicas de la Dragonlance, Reinos Olvidados, Falcongris etc). En la misma línea está Warhammer Fantasy Battle, cuyo principal fuente de ingresos se basa en la venta de miniaturas de metal y plástico.
+
+Espada y brujería[editar]
+El género de espada y brujería es un subgénero de la fantasía heroica, aunque cronológicamente nació casi simultáneamente o incluso un poco antes (Robert Ervin Howard, fundador de la espada y brujería, publicó los relatos de Kull a partir de 1929 y los de Conan a partir de 1932, mientras que el principal fundador de la fantasía heroica, Tolkien, empezó a publicar sobre la Tierra Media a partir de 1937, con El hobbit). Ejemplos de juegos de rol de espada y brujería son los que han sido creados para el universo de Robert E. Howard (la Era Hiboria) o el juego Stormbringer, ambientado en los Reinos Jóvenes, del autor británico Michael Moorcock. Al universo de ficción de éste último se le ha atribuido el género de dark fantasy («fantasía oscura») por escenificar un mundo duro, sombrío y pesimista.
+
+Ficción completa o futura[editar]
+Son todos aquellos juegos de rol que no están basados en una situación no definida en el tiempo y/o en el espacio, o en estimaciones temporales arbitrarias hacia el futuro:
+
+Ciencia ficción futurista[editar]
+A raíz de la aparición de los primeros juegos de rol de fantasía, se adaptaron las reglas para poder ser utilizadas en ambientes futuristas, cambiando las espadas de metal por pistolas láser, la magia por la psíquica, los castillos por naves espaciales, los dragones por robots gigantes o criaturas venidas del espacio exterior y los viajes cruzando ríos y montañas por los saltos interplanetarios a la velocidad de la luz. En el fondo las historias son muy similares a las medievales, con los mismos objetivos (salvar, escapar, derrotar, etc.), quedando la parte científica en segundo plano. Así aparecieron juegos como Paranoia, Star Strek, Mechwarrior, Traveller etc. A raíz de la llegada de internet, y de obras como Neuromante, de William Gibson, el futuro tomó otro cariz más oscuro y decadente, y el espectro creativo se abrió con juegos como Cyberpunk 2020.8 Otras vertientes basadas en la ciencia ficción son los superhéroes, mutantes y mezclas entre fantasía medieval y ciencia ficción, como ocurre en los juegos Sol Oscuro, Shadowrun o Fading Suns, en los que la ciencia ficción es meramente un decorado.
+
+Space Opera[editar]
+También llamada fantasía épico-espacial. Puede decirse que es un subgénero del anterior pero en el que el elemento de ciencia ficción es uno más de la ambientación, aunque pueda en ocasiones representar su principal trasfondo. Por ejemplo, el universo ficticio de Star Wars (con dos juegos de rol publicados hasta la fecha el de 1987 y el de 2000) está ambientado en un pasado casi mitológico, y no en el futuro como suele suceder con la ciencia ficción. Asimismo, dentro del género del Space Opera existe el juego de rol de mismo título, Space Opera, publicado por primera vez en 1980 en Estados Unidos.
+
+Aportes de los juegos de rol[editar]
+
+Dados de 4 a 20 caras.
+Beneficios en la educación[editar]
+El juego, en general, es fundamental en el proceso de enseñanza-aprendizaje: a la hora de aprender, la calidad con que una persona aprende algo se basa en la utilidad práctica que le encuentre a dicho conocimiento. El juego permite acceder al conocimiento de forma significativa, pues convierte en relevantes, informaciones que serían absurdas de otra manera.
+Cálculo mental, aprendizaje de accidentes geográficos y nombres, adquisición de soltura a la hora de esquematizar y tomar notas…
+Otro gran aporte de estos juegos en beneficio del desarrollo educativo, es la promoción de la lectura como medio lúdico y recreativo, lo que a la larga favorece la creación de hábitos que ayudan a superar muchas de las dificultades que surgen en los estudios como consecuencia de una deficiente lectura comprensiva, por falta de motivación.
+Otro aspecto que ayuda a desarrollar los juegos de rol es la adquisición de una gran riqueza expresiva. Con estos juegos se desarrolla una gran riqueza de vocabulario, otro de los grandes déficit que suele ser origen del fracaso escolar.
+Los juegos de rol también estimulan el potencial creativo e imaginativo de la persona, además de hacer trabajar el razonamiento y la lógica durante el transcurso de las aventuras al enfrentar nuevos panoramas, retos y confrontaciones e intentar solucionarlos.
+Aporte a determinadas actitudes[editar]
+Al desarrollo de la empatía y la tolerancia: mediante estos juegos se aprende a meterse en la piel de «otro» y empezar a plantearse qué sienten los demás en situaciones que pueden ser ajenas en un principio.
+A la socialización: el Juego de Rol fomenta el apoyo mutuo y la relación en términos de igualdad. Como ya se ha dicho: no se trata de juegos competitivos, sino cooperativos.
+A la potenciación de habilidades no explotadas y comprensión de aspectos no desarrollados de la personalidad.
+Al encuentro de intereses y gustos personales.
+A la toma de conciencia y responsabilidad: a lo largo del juego, los participantes se enfrentan a decisiones que llevan a sus correspondientes consecuencias. Esto es importante para crear en el individuo una consciencia más amplia de sus actos.
+A la sublimación de los aspectos reprimidos de la personalidad: al ser un juego en el que cada uno interpreta un personaje, en la mayoría de los casos el personaje encarnado es una proyección de ciertos aspectos reprimidos en el jugador.
+A la capacidad de trabajo en grupo y toma de decisiones, habilidades que son de gran importancia en la sociedad, y muy valoradas a la hora de buscar un trabajo.
+A la capacidad de improvisación y resolución de problemas, pues se basan en plantear situaciones que han de ser resueltas en función de las habilidades del personaje.
+Aporte para un buen estado de salud mental[editar]
+Los juegos de rol de fantasía han servido para ayudar a grupos de niños entre ocho y nueve años socialmente inadaptados. Estos desarrollaron habilidades de cooperación mutua.
+Tras pasar un test de personalidad en jugadores habituales a este tipo de juegos, no se encontró ninguna desviación de la personalidad, con la posible excepción de un incremento en el factor Q1 (inclinación a la experimentación, liberal, librepensador).
+Los resultados obtenidos de la investigación sobre el valor de los juegos de rol de fantasía como estrategia para desarrollar la escritura creativa de los niños, demuestra un mayor desarrollo para alumnos de Primaria y Secundaria de las habilidades de escritura, vocabulario y organización de estructuras verbales.
+Se usaron cuestionarios y test de factores de la personalidad para evaluar a jugadores y a no jugadores, y no se encontraron diferencias, a excepción de una puntuación significativamente más alta entre los no jugadores de cierta tendencia a la psicosis (que se relaciona con la criminalidad). Sin embargo, este rasgo no se puede medir con total fiabilidad y su relación con el comportamiento criminal no está confirmada, así que no se puede extraer una conclusión acerca de los posibles beneficios de los juegos de rol. Los investigadores especulan que la persistente imagen negativa sobre estos juegos proviene de no haber oído nada sobre el juego aparte de las noticias alarmistas de la prensa.9
+Críticas a los juegos de rol[editar]
+A lo largo del tiempo, y según se iban haciendo más populares los juegos de rol no han faltado denuncias contra ellos.
+
+Con sucesos puntuales que tenían como trasfondo un supuesto juego similar (como el asesinato en el barrio de Manoteras de Madrid, en 1994 de un empleado de limpieza a manos de dos jóvenes que se escudaban en un supuesto juego de fichas de personajes que no tenía que ver con éstos según la sentencia), algunos medios se han hecho eco de los juegos de rol como una actividad peligrosa y marginal.
+
+Por ello, algunos editores de manuales de rol incluyen en sus libros una advertencia bastante clara en la que se indica al lector que los juegos de rol no tienen nada que ver con la vida real y que son simplemente un entretenimiento ficticio.
+
+Véase también[editar]
+Anexo:Autores de juegos de rol
+Anexo:Ilustradores de juegos de rol
+Anexo:Editoriales de juegos de rol
+Anexo:Cronología de los juegos de rol
+Sistema de juego (juegos de rol)
+Sistema de juego genérico
+Director de juego (juegos de rol)
+Personaje jugador
+Personaje no jugador
+Rol en vivo
+Rol narrativo
+Rol por correo electrónico
+Videojuego de rol
+MUD
+Referencias[editar]
+Volver arriba ↑ SimSoc 5th edition (2000) ISBN 0-684-87140-8
+Volver arriba ↑ Hoffmann, Frank W.; Bailey, William G. (1991). Sports & Recreation Fads. Haworth Press. p. 109. ISBN 1560240563.
+Volver arriba ↑ SEVILLANO PAREJA Héctor, Estudio del sector editorial de los juegos de rol en España: historia, tipología, perfil del lector, del autor, del traductor y del editor, Ediciones de la Universidad de Salamanca, junio de 2009, 1.ª ed., 1.ª imp., 1 DVD, Col. Vítor, n° 239, ISBN 978-84-7800-263-4, P.246: «No tardaron en establecerse distribuidores exclusivos de AD&D en 22 países diferentes. Ante la necesidad de traducir el juego a otros idiomas, TSR creó la versión francesa de AD&D, que fue publicada en 1982, y dio luz verde para su traducción a otros 14 idiomas».
+Volver arriba ↑ DRAE: «rol»
+Volver arriba ↑ JACKSON Steve, Killer, juego de rol en vivo, Joc Internacional, Barcelona, junio de 1991, título original: Killer: The Game of Assassination, traducción al castellano de Lluís Salvador, ISBN 84-7831-052-5
+Volver arriba ↑ «Online text-based role-playing game» (en inglés). Consultado el 26 de diciembre de 2011.
+Volver arriba ↑ 'Whirl'. «Whirl's Roleplaying Guide» (en inglés). Consultado el 26 de diciembre de 2011.
+Volver arriba ↑ PONDSMITH Mike, Cyberpunk 2020, M+D Editores, Madrid, primera edición en español: diciembre de 1993, traducción del inglés al castellano de Óscar Díaz García, 256 p., 28x21 cm, rúst., ISBN 84-88765-01-0
+Volver arriba ↑ http://ntic.educacion.es/w3//recursos2/estudiantes/jovenes/op_11.htm
+Fuentes originales[editar]
+«Defensa del rol». Artículo publicado con permiso del autor.
+«Los juegos de rol: hacia una propuesta pedagógica». Artículo de Pablo Giménez. Publicado con permiso del autor.
+«Siete mitos sobre los juegos de rol», de William J. Walton.
+Enlaces externos[editar]
+«Los Juegos de Rol» en la página web del estudiante del Ministerio de Educación y Ciencia de España
+Definición y Teoría de los juegos de rol
+Explicación sobre los juegos de rol, aplicado a los juegos de rol narrativos en foro

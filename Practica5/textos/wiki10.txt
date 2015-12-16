@@ -1,0 +1,61 @@
+﻿GURPS
+GURPS
+Género	Genérico
+Diseñado por	Steve Jackson
+Editorial	Steve Jackson Games
+Fecha de publicación	1986
+Sistema	GURPS
+[editar datos en Wikidata ]
+GURPS son las siglas en inglés de Generic Universal RolePlaying System («sistema de juego de rol universal y genérico»). Es un sistema de juego genérico creado por Steve Jackson Games en 1986. En 2004 se ha publicado la cuarta edición, con importantes modificaciones en las reglas.
+
+Índice  [ocultar] 
+1 Historia
+2 Ediciones
+3 Descripción
+3.1 Concepto
+3.2 Sistema de juego
+4 Traducciones en castellano
+5 Enlaces externos
+6 Referencias
+Historia[editar]
+El antecedente inmediato de GURPS en materia de sistema de juego fue The Fantasy Trip («El viaje fantástico» o «El viaje a la fantasía»), un juego de rol escrito por Steve Jackson para la compañía Metagaming. Varios de los conceptos básicos de GURPS aparecían ya inicialmente en The Fantasy Trip. En un principio las siglas eran una broma entre los creadores, significando Great Unnamed RolePlaying System («gran sistema sin nombre para juegos de rol»).
+
+Los manuales básicos actualmente son dos, el de personajes y el de campañas, orientados el primero para jugadores y el segundo para directores de juego. Al ser genéricos, pueden emplearse como base para jugar en cualquier época o mundo.
+
+Además de los manuales básicos existen algunos suplementos de reglas, como GURPS Powers o GURPS Hi-Tech, o suplementos para un género específico, como GURPS Space o GURPS Fantasy, o para una ambientación en particular, como GURPS Infinite Worlds o GURPS Banestorm.
+
+Ediciones[editar]
+Las ediciones de GURPS han sido hasta ahora las siguientes:
+
+1986: primera edición (formato de caja)
+1987: segunda edición (formato de caja)
+1988: tercera edición (formato de libro, encuadernado en rústica o en cartoné en función de las diferentes reimpresiones y reediciones posteriores)
+1995: tercera edición revisada (esta versión fue traducida al castellano en ese mismo año)
+2004: cuarta edición
+Las dos primeras ediciones fueron las únicas publicadas en formato de caja. La tercera edición vio la luz en 1988, en formato de libro. Hasta 1995 se la reimprimió o reeditó en diferentes ocasiones, la mayor parte de las veces en rústica, aunque también se la reeditó en cartoné. De 1995 a 2002 Steve Jackson Games publicó de esta tercera edición una versión revisada, con cambios significativos en el sistema de juego. Al igual que se hizo con las versiones anteriores de la tercera edición, esta versión revisada también fue reimpresa o reeditada varias veces tanto en rústica como en cartoné. En 2004 fue publicada la cuarta edición, pero en 2008 se publicó de nuevo la tercera edición revisada, aunque esta vez en soporte electrónico. La tercera edición y la tercera edición revisada son seguramente las ediciones que más veces han sido reeditadas y reimpresas.1 2 3
+
+Descripción[editar]
+Concepto[editar]
+Este sistema de juego aporta una serie de reglas que pretenden abarcar un amplio espectro de entornos de juego, desde la edad de piedra hasta la ciencia ficción del lejano y distante futuro, desde la fantasía heroica al terror. El desarrollo de las reglas es muy extenso y está muy cuidado, ya que en ellas se presta mucha atención a los detalles.
+
+Quizás su único punto desfavorable sea el de no tratarse de un sistema para leer y jugar, sino que necesita algo de preparación al no tener un entorno desarrollado. Es decir, el director de juego debe decidir qué tipo de partida va a realizarse (fantástica, medieval, futurista, de terror, etc.) y generar todo el ambiente, personajes no jugadores, localizaciones... una labor mucho más pesada pero también más creativa.
+
+En cualquier caso, Steve Jackson Games, editores del juego, disponen de multitud de libros adicionales que se centran en algún tipo de ambientación; habiendo tantos que abarcan casi cualquier cosa que apetezca jugar, desde la Roma o Grecia clásicas, hasta mundos fantásticos poblados por elfos y magos, pasando por la típica historia postapocalíptica con mutantes y zombies, superhéroes, viajes espaciales, viajes por el tiempo, cyberpunk, vampiros y un largo, largo, etc.
+
+Sistema de juego[editar]
+El sistema de juego está basado en atributos y características graduadas de 1 a 20 en el caso de personajes humanos, y más allá para otro tipo de seres. Usa tres dados de seis caras para la resolución de acciones, dando resultados entre 3 y 18. Intenta reflejar realismo en su simulación, y aunque la creación de personajes requiere bastante tiempo, permite hacer prácticamente cualquier cosa que se pueda imaginar con muchísimo detalle.
+
+Traducciones en castellano[editar]
+La editorial madrileña La Factoría de Ideas tradujo y publicó la tercera edición revisada de GURPS en castellano en 1995.4
+
+Enlaces externos[editar]
+Steve Jackson Games, Página web oficial, en inglés
+GURPS Wiki, Wiki independiente sobre GURPS, en inglés
+GURPS Webring, Webring que reúne varias páginas web relacionadas con GURPS, en inglés
+GURPS_es, Lista de correo sobre GURPS, en español
+gurps.es, Web no oficial sobre GURPS, en español
+Referencias[editar]
+Volver arriba ↑ Lista de ediciones de GURPS en el sitio web especializado RPG NET (en inglés)
+Volver arriba ↑ Lista de reimpresiones y reediciones de la tercera edición de GURPS en el sitio web especializado RPG Geek (en inglés)
+Volver arriba ↑ Lista de reimpresiones y reediciones de la tercera edición revisada de GURPS en el sitio web especializado RPG Geek (en inglés)
+Volver arriba ↑ JACKSON Steve, GURPS, Juego de Rol Genérico Universal, libro básico (tercera versión - revisada), La Factoría de Ideas, Madrid, mayo de 1995, traducido del inglés al castellano por Ignacio Sánchez, 349 p. 29x24 cm, rúst., ISBN 84-88966-04-0

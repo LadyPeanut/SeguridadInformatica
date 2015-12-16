@@ -1,0 +1,474 @@
+﻿Guild Wars (del inglés literalmente «guerras entre gremios») es una serie de juegos online de rol libre de cuotas y totalmente traducido al castellano, englobado en el género de los videojuegos de rol en línea competitivos. Está desarrollado por ArenaNet, subsidiaria de la coreana NCsoft. La serie está compuesta por tres episodios independientes y una expansión, todas ellas publicadas entre abril de 2005 y agosto de 2007.
+
+La aventura empezó con el lanzamiento de Guild Wars: Prophecies en 2005, siendo la primera campaña de la saga. La historia transcurría en el continente ficticio de Tyria, ambientado en la Europa medieval. Más tarde, aparecieron otras campañas como Factions, ambientada en el lejano Oriente y Nightfall, ambientado en África. Los personajes pueden pasar de campaña a campaña si se dispone de estas y cumplen los requisitos correspondientes como completar misiones específicas.
+
+Índice  [ocultar] 
+1 Jugabilidad
+1.1 Creación del personaje
+1.2 Profesiones
+1.3 Entorno
+1.4 PvP
+1.5 PvE
+2 Juegos y expansiones
+2.1 Guild Wars Prophecies
+2.2 Guild Wars Factions
+2.3 Guild Wars Nightfall
+3 La aventura de rol
+3.1 Historia
+3.2 Geografía
+3.3 Modos de juego
+3.4 Jugadores
+3.4.1 Profesiones
+3.4.2 Armaduras
+3.4.2.1 Runas
+3.4.3 Armas
+3.4.4 Habilidades
+3.4.5 Títulos
+3.4.6 Mascotas
+3.4.6.1 Minimascotas
+3.5 Grupos
+3.5.1 Grupos con otros jugadores
+3.5.1.1 Clan
+3.5.1.1.1 Facciones
+3.5.1.1.2 Alianzas
+3.5.1.2 Grupos con personajes artificiales
+3.5.1.2.1 Esbirros
+3.5.1.2.2 Héroes
+3.6 Batallas entre jugadores
+4 Premios internacionales
+5 Cuarta entrega. Guild Wars: Eye of the North
+5.1 Novedades
+5.2 Funciones
+5.3 Misiones
+5.4 Mascotas disponibles en Tyria
+5.5 Mascotas disponibles en Elona
+5.6 Mascotas disponibles en el Ojo del Norte
+5.7 Mascotas disponibles en el Inframundo
+5.8 Esbirros de Tyria
+5.9 Esbirros de Cantha
+5.10 Esbirros de Elona
+5.11 Emblemas
+5.12 Ediciones Especiales
+5.13 Conseguidos dentro del juego
+5.14 Conseguidos fuera del juego
+6 Guild Wars 2
+7 Véase también
+8 Enlaces externos
+8.1 Sitios web oficiales
+8.2 Fansites oficiales
+8.3 Wikis dedicadas
+Jugabilidad[editar]
+Guild Wars ofrece dos tipos muy diferenciados de juego: uno cooperativo orientado al juego de rol, y otro competitivo jugador contra jugador. Ambos son hospedados en los servidores de ArenaNet. El juego transcurre en la historia de un mundo ficticio dividido principalmente en tres continentes: "Tyria", "Cantha" y "Elona". Cada uno de ellos pertenece a uno de los tres juegos de la serie Guild Wars (la expansión tiene lugar en Tyria), y cada continente tiene una estética muy marcada. Aún tomando lugar en diferentes continentes, los tres juegos están fuertemente unidos por la trama que rodea el universo de Guild Wars.
+
+El jugador crea un personaje con los rasgos que el quiera para jugar con él a través de las diferentes misiones que te ira ofreciendo la campaña. Los jugadores se juntaran en grupos con otros personajes tanto manejados por la máquina como por otros jugadores de todo el mundo para poder superar las misiones, Los compañeros controlador por la máquina, también conocidos como "esbirros" o "héroes" te ayudaran a pasar con éxito todas las misiones del juego en el caso de que no tengas a nadie con quien jugar, a diferencia de los esbirros que solo se pueden mover todos en grupo, los héroes, se les puede controlar completamente, se les puede poner runas o insignias a sus armaduras, cambiar sus habilidades, armas y atributos, e incluso obligar a usar habilidades, además se pueden controlar cada uno por separado.
+
+El modo competitivo o PvP esta fuertemente basado en el juego en equipo y designado a zonas muy específicas, además, los jugadores no medirán su fuerza por la calidad de sus armas o armaduras, sino por su habilidad como jugadores. Cuando en todos los MMORPG alguien es mejor jugando cuanto más nivel o equipo tiene, en el GW el mejor jugador es aquel que tenga mas habilidad en el campo de batalla, que mejor sepa combinar habilidades, mas visión de juego, mas reflejos,... Esto permite que cualquier jugador pueda crearse un personaje a nivel máximo con armadura y armas máximas en cualquier momento para poder ir a jugar PvP a igualdad de condiciones que los demás jugadores.
+
+Creación del personaje[editar]
+Los jugadores pueden elegir entre 10 diferentes profesiones (en prophecies solo están las 6 básicas, en factions hay 2 mas, y en Nightfall hay 2 mas. Las profesiones no son acumulativas, por lo que si se tiene Prophecies y Nightfall, solo se tendrá las 6 profesiones básicas mas Derviche y Paragon, y de igual manera si se tiene Prophecies y Factions, las 6 profesiones que están en Prophecies están también en Nightfall y Factions). Puedes modificar su pelo, cara, color de piel, altura y nombre - según vayas avanzando en el juego iras encontrando mejores armaduras para que tu personaje luzca mejor. Después de avanzar un poco en el juego, se podrá ir a las islas bélicas, y cuando se llegue al nivel 20, se podrá ir a la parte PvP de las islas bélicas, sin embargo, hay arenas PvP para personajes de niveles bajo en los 3 paquetes.
+
+El nivel máximo del personaje es el 20, tendrás 170 puntos de atributo, pero tendrás que hacer 2 misiones que te den 15 puntos de atributo cada una, sin importar cual de los 3 paquetes tengas. Podrás seguir comprando habilidades y mejorando tu equipo por siempre. Tu salud y energía pueden seguir variando según las runas usadas en la armaduras y el atributo Almacenamiento de energía único del personaje Elementalista.
+
+Profesiones[editar]
+Cada Profesión tiene diferentes habilidades, y para poder superar cualquier misión tienes que combinar varios personajes de las diferentes profesiones para que, trabajando en grupo, podáis vencer a los enemigos.
+
+El Guerrero por ejemplo tiene la capacidad de atravesar la armadura de sus enemigos con sus golpes, además es la profesión con más armadura de todas junto con el paragon, por esta razón se le suele utilizar como "tanque" para aguantar oleadas de enemigos mientras tus aliados atacan desde la retaguardia. Por otra parte, el Elementalista tiene muy poca armadura, pero puedes invocar a los elementos y hacer enormes cantidades de daño en las líneas enemigas, siendo el perfecto personaje para atacar desde la retaguardia y evitar que los monstruos se acerquen. El nigromante se encarga de la creación de "muertos vivientes esclavos" a partir de cadáveres (solo se crea un monstruo por cadáver, ningún muerto viviente a excepción de el Golem de carne es reutilizable), y del robo de vida a otros jugadores, en pvp puede ser muy peligroso. Los guardabosques son grandes arqueros, y además pueden poner trampas invisibles a toda persona, incluso a el mismo jugador, pero siempre hace daño solo a el enemigo, poseen una gran variedad de habilidades para interrumpir al enemigo al igual que para infligir condiciones sobre otros jugadores (solamente con arco). Los monjes, aparte de curar al resto de jugadores, pueden hechizarlos para que no reciban daño, o incluso pueden usar habilidades de ataque muy fuertes. El hipnotizador usa habilidades que aunque no hagan daño directo, usa los ataques del rival y su propia energía para dañarlos, aunque también pueden dañarlos directamente con su atributo Magia de ilusión'
+
+El Guild Wars, a diferencia de otros MMORPG, permite escoger una segunda profesión para el personaje, con la que poder apoyar su profesión primaria. Por ejemplo, un guerrero que pueda hacer caer a los enemigos al suelo con habilidades de elementalista, o un monje que pueda esquivar ataques de enemigos usando actitudes defensivas de los guerreros, al principio del juego no se podrá cambiar la profesión secundaria, pero mas o menos a mitad del juego, se podrá cambiar.
+
+Existen cientos de habilidades en Guild Wars, se agrupan por profesión, y algunas son comunes como el Sello de resurrección, se pueden aprender cada una de ellas, a excepción de algunas que son solo de monstruos, y se pueden equipar hasta 8 a un personaje, a este conjunto de habilidades se les llama Build, solo se pueden crear builds con habilidades de la primera y segunda profesión del jugador, además de las habilidades comunes.
+
+Entorno[editar]
+En GuildWars hay dos zonas claramente diferenciadas, las zonas explorables y las ciudades. Únicamente ves a otros jugadores en ciudades, en las cuales juntas un grupo de aventureros (que puede ser de 2 hasta 8 en los mapas de rol), ya sean otros jugadores, esbirros o héroes. Cuando salgas a a una zona explorable, en este momento únicamente estarás tu y tu equipo.
+
+PvP[editar]
+El combate contra otros jugadores se divide en:
+
+Arenas (4vs4)
+Ascenso del héroe (8vs8)
+GvG (8 personas de un clan vs 8 personas de otro clan)
+Arenas Codex (4vs4)
+Las batallas en Ascenso del Héroe son muy concurridas, ya que por cada victoria te dan puntos de fama con los cuales después puedes emotear animales (tu personaje es capaz de emanar de su cuerpo una animación de un animal de fuego), el animal depende de la cantidad de fama que tengas, empezando por un pobre ciervo y acabando por un enorme dragón que pocas personas en el mundo han conseguido tener.
+
+Las GvG son batallas muy tácticas en las cuales 2 clanes se enfrentan en un mapa bastante grande con un punto de moral en medio que deben mantener y un Héroe controlado por la máquina al cual deben proteger, esta ha sido la modalidad reina del GW, donde han ofrecido mejores premios en metálico y torneos por todo el mundo.
+
+Las Arenas Codex fueron añadidas al juego a finales del 2009, Se basan en el mismo sistema de lucha de las Arenas normales 4vs4, pero con la peculiaridad de que las habilidades que puedes usar están reducidas a un pequeño número de estas, las cuales cambian cada día haciendo que el metagame de estas arenas cambie diariamente.
+
+PvE[editar]
+El PvE de este juego es inmenso y aunque el PvP es el centro del GW, su PvE no tiene nada que envidiar al de otro juegos, hay tres continentes y una expansión esperando para ser recorridos enteros, tienes miles de horas de juego solo para poder descubrir los misterios que encierra y poder ayudar a sus habitantes. La trama central del juego te ira llevando por diferente ciudades mientras te van narrando una historia épica. Y después de que hayas conseguido salvar al mundo de todas y cada una de las amenazas que lo ciernen entonces estarás listo para explorar los lugares más peligrosos solo reservados para la élite, solo los mejores grupos son capaces de acabar esas zonas infestadas de enemigos deseosos de tu sangre.
+
+Juegos y expansiones[editar]
+Guild Wars Prophecies[editar]
+Artículo principal: Guild Wars Prophecies
+Fue el primer capítulo de Guild Wars, lanzado el 28 de abril de 2005. Los jugadores empiezan el juego como reclutas de la Academia de Ascalon, donde aprenderán a usar las habilidades, menús y a interactuar con los distintos PNJ del juego, así como a cooperar con los demás jugadores. Una vez el jugador esté listo y haya cumplido los requisitos mínimos, saldrá de esa zona “tutorial”, donde no podrá volver más con el mismo personaje. A partir de este punto el jugador podrá recorrer los distintos territorios en grupo. Estos grupos pueden ser formados con otros jugadores o con NPC´s. Estos NPC reciben el nombre de "Esbirros" y seguirán al jugador fuera de las ciudades y podrán recibir órdenes sencillas como atacar a un enemigo y retirarse. Hay varios esbirros diferentes y cada uno tiene su propia barra de habilidades dependiendo de la profesión a la que pertenezca.
+
+Guild Wars Factions[editar]
+Artículo principal: Guild Wars Factions
+Factions fue lanzado a nivel mundial el día 28 de abril de 2006. Es un capítulo independiente con la posibilidad de unir su contenido al de la primera entrega o jugarlo por separado.
+
+Esta expansión presenta una nueva campaña PvE situada en el continente de Cantha, del cual destaca su ambientación y la integración de enemigos sacados de la mitología oriental, como los Naga y los Kappa entre otros. Incluye dos nuevos tipos de profesión para los personajes: el Asesino y el Ritualista, así como novedades en el modo PvP tales como el control de ciertos territorios de Cantha en función de los puntos que ganen los distintos miembros de los clanes, juntamente con sus aliados en las batallas FvF (acrónimo de Faction Versus Faction), donde 3 grupos de 4 de una misma Facción (Luxon o Kurzick) lucharán contra la Facción enemiga.
+
+Guild Wars Nightfall[editar]
+Artículo principal: Guild Wars Nightfall
+Nightfall fue lanzado el 27 de octubre del año 2006. Es un capítulo independiente con la posibilidad de unir su contenido al de las anteriores entregas o jugarlo por separado.
+
+Esta expansión presenta una nueva campaña PVE situada en el continente de Elona, un gran desierto similar al del norte de África. Incluye dos nuevas clases, el Paragón y el Derviche, y mejoras PvE, tales como la posibilidad de unir a tú grupo un número limitado de "héroes". Además incluye un nuevo modo PvP que son las arenas por equipos donde dos jugadores junto con 3 héroes adicionales se enfrentaran por la victoria. Estos héroes son NPC´s que pueden acompañar a tú personaje, al igual que en las entregas anteriores, con la diferencia de que puedes elegir las habilidades que llevarán, así como su equipamiento. También se incluye un sistema de "banderas" o señales que permiten tener un mayor control sobre el movimiento de los esbirros y héroes.
+
+La aventura de rol[editar]
+Historia[editar]
+Geografía[editar]
+Modos de juego[editar]
+Por defecto, el jugador empezará la partida con el Modo Normal sin poderlo cambiar y hasta 2007, era el único modo de juego. Desde medianos de 2007, está disponible un nuevo nivel de dificultad llamado Hard Mode. Activándolo desde cualquier ciudad, el nivel y la fuerza de los enemigos aumentarán hasta duplicar el nivel máximo que un jugador puede llegar a tener. Las recompensas por enemigo abatido son mucho más elevadas y se activarán Títulos nuevos que sólo se podrán conseguir en este nivel de dificultad. El nivel sólo se puede activar si el personaje ha terminado la aventura entera del continente donde está situado.
+
+Jugadores[editar]
+Profesiones[editar]
+Profesión	Energía / maná base	Campaña
+Guerrero	20	Todas
+Guardabosques	25	Todas
+Elementalista	30	Todas
+Monje	30	Todas
+Nigromante	30	Todas
+Hipnotizador	30	Todas
+Asesino	25	Guild Wars: Factions
+Ritualista	30	Guild Wars: Factions
+Derviche	25	Guild Wars: Nightfall
+Paragon	20	Guild Wars: Nightfall
+Armaduras[editar]
+Runas[editar]
+Las Runas son unos objetos que permiten al jugador, mejorar sus armaduras. Estos objetos se pueden comprar en algunas ciudades importantes, a otros jugadores o con suerte después de haber eliminado a un enemigo. Existen runas para aumentar los puntos de atributo, para conseguir más vida y para reducir el daño físico entre otras. Las runas se tienen que poner encima de la armadura para que surja efecto. Cada parte de la armadura sólo puede llevar una. No se pueden quitar, a menos de que recicle la parte en cuestión, pero si que se podrá actualizar pegando otra encima.
+
+Hay distintas clases de Runas, hay un grupo que son neutrales, pudiendo usarlas cualquier profesión y otro grupo más extenso, que son particulares para cada profesión y por lo que sólo esos podrán usarla.
+
+Grados y clases de Runas:
+
+Runa Menor (de atributo): Sube 1 punto del Atributo específico de tu profesión.
+Runa Mayor (de atributo): Sube 2 puntos del Atributo específico de tu profesión. Resta 35 de vida.
+Runa Excepcional (de atributo): Sube 3 puntos del Atributo específico de tu profesión. Resta 75 de vida.
+Runa de Vigor de grado Menor: Sube 30 puntos la salud máxima
+Runa de Vigor de grado Mayor: Sube 41 puntos la salud máxima.
+Runa de Vigor de grado excepcional: Sube 50 puntos la salud máxima.
+Runa de Vida: Da 10 puntos de salud adicionales.
+Runa de Sintonía: Da 2 puntos de energía adicionales.
+
+
+Cabe mencionar que en ocasiones dentro de los objetos que tiran los enemigos al ser derrotados puedes encontrar runas que no se venden y que solo podrás utilizarlas al usar un identificador y un equipo de reciclado o de lo contrario al reciclar el objeto se convertirá en materia artesanal perdiendo la runa que contenía.
+
+Armas[editar]
+Las armas en juego que puedes utilizar también dependen de la profesión que elijas, ya que cada arma requiere cierto nivel de habilidad con ella. Por ejemplo, para usar un arco se requiere de un nivel de puntería en sus habilidades, y esta sólo la tiene el guardabosque; de igual forma, una espada necesita esgrima. Aunque a lo largo del juego podrás obtener todo tipo de armas, no podrás usar algunas, y la mejor opción es buscar un jugador que la pueda utilizar y vendérsela a un buen precio. Las mejores armas siempre serán las que son creadas por los armeros que se encuentran en las diferentes ciudades, aunque para obtener una te pedirán materiales artesanes y una suma de dinero por su realización.
+
+Habilidades[editar]
+Inicialmente, el jugador creado para PvE no dispone de ninguna Habilidad; las tendrá que ir aprendiendo por el camino, cumpliendo misiones o comprándolas en puntos específicos. Hay un total de 135 Habilidades por aprender empezando con la primera campaña, número que irá aumentando según se vayan comprando las posteriores, de las cuales sólo se podrán equipar hasta 8 (la disposición de estas, es llamada "Build") antes de salir a una zona explorable. Una vez fuera de las ciudades o puestos comerciales no se podrán modificar (únicamente el orden en el que aparecen en la barra) hasta que el jugador o grupo entre de nuevo en un puesto comercial o ciudad. Dentro del pack de habilidades que se pueden conseguir hay unas de especiales llamadas "Élites", las cuales no se podrán comprar ni aprender en modo PvE. Sólo se podrán capturar mediante un "Sello de Captura" y después de haber acabado con un enemigo jefe que la use.
+
+Todas las habilidades que se aprendan, capturen o compren quedan desbloqueadas para ser usadas posteriormente si se crea un personaje de PvP.
+
+Títulos[editar]
+Los títulos son una forma de reconocimiento a los jugadores que han logrado conseguir un cierto nivel alto o muy alto en alguna faceta del juego. Presionando H, el jugador podrá ver la evolución de sus títulos y cuando haya llegado al mínimo requerido, elegirá activar la casilla de selección para hacer visible a los demás jugadores el título ganado que aparecerá debajo del nombre de su personaje. Sólo se podrá mostrar un título, pudiéndolo cambiar siempre.
+
+Título	Objetivo	Rangos
+Superviviente	Sumar experiencia sin morir ni una sola vez	3
+Sabio	Identificar objetos poco frecuentes (dorados)	7
+Cazador de tesoros	Al descubrir y abrir cofres escondidos por toda la geografía que sean de alto nivel	7
+Borracho	Al estar borracho durante mucho tiempo (consumiendo bebidas alcohólicas)	2
+Goloso	Al comer una cantidad considerable de pasteles y otros dulces que se venden en los comercios	2
+Rey de la fiesta	Al consumir muchos artículos de fiesta	2
+Defensor de Ascalon	Al pasarse el tutorial de Guild Wars: Prophecies con nivel 20	1
+Lancero del sol	Al acumular puntos con misiones concretas y/o bendiciones de Guild Wars: Nightfall	10
+Iluminador	Al acumular puntos con misiones concretas y/o bendiciones de Guild Wars: Nightfall	8
+Explorador de Tyria	Al ir explorando la geografía de Tyria (requiere Guild Wars: Prophecies)	1
+Explorador de Cantha	Al ir explorando la geografía de Cantha (requiere Guild Wars: Factions)	1
+Explorador de Elona	Al ir explorando la geografía de Elona (requiere Guild Wars: Nightfall)	1
+Explorador legendario	Cuando se consigue el 100% de la geografía de todos los continentes	1
+Protector de Tyria	Al conseguir terminar las misiones cooperativas con todos los extras de Guild Wars: Prophecies	1
+Protector de Cantha	Al conseguir terminar las misiones cooperativas con todos los extras de Guild Wars: Factions	1
+Protector de Elona	Al conseguir terminar las misiones cooperativas con todos los extras de Guild Wars: Nightfall	1
+Guardián legendario	Al conseguir terminar todas las misiones cooperativas con todos los extras de todas las campañas en modo fácil y difícil	1
+Cazador de habilidades de élite de Tyria	Al conseguir capturar las habilidades de élite que poseen los jefes esparcidos por Tyria (requiere Guild Wars: Prophecies)	1
+Cazador de habilidades de élite de Cantha	Al conseguir capturar las habilidades de élite que poseen los jefes esparcidos por Cantha (requiere Guild Wars: Factions)	1
+Cazador de habilidades de élite de Elona	Al conseguir capturar las habilidades de élite que poseen los jefes esparcidos por la Elona (requiere Guild Wars: Nightfall)	1
+Cazador de habilidades de élite legendario	Al conseguir capturar todas las habilidades de élite que poseen los jefes esparcidos por todos los continentes	1
+Triunfador de Tyria	Al conseguir eliminar todos los enemigos de cada una de las zonas explorables de Guild Wars: Prophecies en Modo Difícil	1
+Triunfador de Cantha	Al conseguir eliminar todos los enemigos de cada una de las zonas explorables de Guild Wars: Factions en Modo Difícil	1
+Triunfador de Elona	Al conseguir eliminar todos los enemigos de cada una de las zonas explorables de Guild Wars: Nightfall en Modo Difícil	1
+Triunfador legendario	Al conseguir eliminar todos los enemigos de todos los continentes en Modo Difícil	1
+Norn	Al acomular puntos con misiones concretas y/o bendiciones (requiere Guild Wars: Eye of the North)	10
+Asura	Al acomular puntos con misiones concretas y/o bendiciones (requiere Guild Wars: Eye of the North)	10
+Vanguardia de Ébano	Al acomular puntos con misiones concretas y/o bendiciones (requiere Guild Wars: Eye of the North)	10
+Deldrimor	Al acomular puntos con misiones concretas y/o bendiciones (requiere Guild Wars: Eye of the North)	10
+Maestro del Norte	Al acomular puntos con misiones y/o bendiciones concretas (requiere Guild Wars: Eye of the North)	6
+El auténtico amo	El título de los títulos de máximo prestigio en PvE que únicamente lo lograrán aquellos que consigan tener títulos en su rango máximo	7
+Gladiador	Se consigue al ganar muchas batalla seguidas en Arenas al azar y Arenas por equipos	12
+Héroe	Se consigue al ganar batalla en Ascenso del Héroe	12
+Campeón	Se consigue al ganar varias batallas de clanes (GvG)sin perder ninguna	12
+Luxon	Se consigue al invertir puntos de facción luxon, al aumentar el rango aumenta el máximo de puntos de facción luxon que se pueden tener	12
+Kurzick	Se consigue al invertir puntos de facción kurzick, al aumentar el rango aumenta el máximo de puntos de facción kurzick que se pueden tener	12
+Zaishen	Se consigue al abrir cofres zaishen en La isla de los sinnombre	12
+Comandante	Se consigue al ganar en Batallas de héroes, al aumentar el rango aumenta el máximo de recompensas de balthazart que se pueden tener	12
+Mascotas[editar]
+Artículo principal: Anexo:Mascotas de Guild Wars
+Las mascotas son animales que, siempre que el jugador tenga la habilidad necesaria equipada, acompañarán al personaje a lo largo de la aventura protegiéndole y sirviéndole. Sólo los que sean Guardabosques o aquellos que tengan esta profesión como secundaria, podrán tener una. Únicamente se puede tener una mascota por jugador. Para conseguir una, basta con ir a su hábitat para domarla usando las habilidades de guardabosque. Cuando se tiene una mascota, el jugador tiene que entrenarla para que sea un animal de ataque, causando un daño muy elevado pero sin mucha salud o al revés, entrenarla parta que sirva como "muro" y provocar tapones. En este caso, la mascota casi no provocaría daño pero tendría mucha más salud para resistir lo suficiente.
+
+Minimascotas[editar]
+Las minimascotas o en inglés y de uso extendido en el juego, minipets, son reproducciones en miniatura de personajes o enemigos de la saga Guild Wars. A diferencia de las macotas, anteriormente esmentadas, estas únicamente sirven de "adorno"; acompañan al jugador en ciudades y zona de batalla, pero sin participar. No atacan ni reciben daño. Los colores del nombre de la mascota sirven para saber si es poco frecuente o no, siendo más o menos caras en el caso que el jugador quiera venderlas a otros.
+
+
+Desde que se introdujo Eye Of The North (la expansión de la campaña original, Guild Wars Prophecies) las minimascotas se pueden "dedicar" a exponerlos en el museo de monumentos, lo que hace que las puedas mostrar pero no la puedes poner en el museo se monumentos si ya estaba dedicada. Una mascota personalizada tiene el precio significativamente devaluado, solo es recomendable comprar mini-mascotas personalizadas si no tienes interés en comprar la 4 expansion del juego.
+
+Grupos[editar]
+Grupos con otros jugadores[editar]
+Clan[editar]
+Cualquier jugador puede crear su propio clan o unirse a otros ya existentes cuando quiera. Entrando en uno, te permite interactuar con sus miembros mediante un chat exclusivo, así como poder participar en las batallas de clanes (GvG) y en las batallas entre facciones (FvF). Para crear un clan, aparte de no formar parte de ningún otro, hay que hablar con un Registrador de Clanes, localizables en Ascalon, Arco de León, Kaineng o Kamadan. Por un modesto precio, el futuro líder de clan, decidirá el nombre entero así como su "tag" o abreviación, la cual siempre será visible para cualquier otro jugador detrás del nombre.
+
+Jerarquía del clan:
+
+El líder: Sólo uno, con poder absoluto sobre el clan. En cualquier momento, puede cambiar cualquier aspecto del clan o disolverlo. También, puede nombrar a otro como líder en su lugar.
+Los oficiales: Al inicio no hay y deben ser ascendidos por el líder. Los oficiales, a parte del peso específico dentro de un clan, tienen el poder de fichar o expulsar y ascender degradar a otros miembros.
+Los miembros: Los jugadores que forman parte del clan. Sin poder sobre este.
+Huéspedes: Jugadores invitados para que pueda participar en el clan como un miembro más, pero por un tiempo limitado de 8 horas. El Huésped, puede ser cualquiera, ya sea una persona sin clan o miembro de otro. Sin perder ningún vínculo.
+Los invitados: Gente sin clan que a petición del líder o de un oficial, aún no se han unido en el clan. Hasta que no lo hagan, no podrán participar en este.
+La sala del clan:
+
+Las Salas son un lugar único y exclusivo para miembros de un mismo clan y sus invitados. Una sala es un trozo de mapa que sirve para poder acceder a las luchas GvG y FvF, así como para reunirse con miembros o usar algún servicio especial de la Sala y adquirible más tarde, como mercaderes exclusivos. Para conseguir una, hay que ser el líder del clan, tener un Emblema y un Sello Celestial. El Sello se puede conseguir gratis ganando en el Ascenso del Héroe o comprándolo a otros jugadores por un módico precio o bien comprándolo a un Vendedor de Sellos por una cantidad elevada.
+
+Tipos de Salas:
+
+Isla del Guerrero
+Isla del Cazador
+Isla del Mago
+Isla de Hielo
+Isla del Nómada
+Isla del Druida
+Isla de los Muertos
+Isla de Fuego
+Isla de la Meditación (Factions)
+Isla de Jade (Factions)
+Isla de Piedra (Factions)
+Isla Imperial (Factions)
+Isla Inundada (Nightfall)
+Isla Corrupta (Nightfall)
+Isla de las Sierpes (Nightfall)
+Isla de la soledad (Nightfall)
+Servicios disponibles y exclusivos para los miembros o invitados de la Sala del clan:
+
+Una vez se disponga de Sala, cualquier miembro puede comprar servicios extras hablando con el Señor del Clan. Esos servicios podrán ser usados siempre por parte de cualquier miembro o aliado. En el caso de que el líder cambiase de Sala de Clan, los extras comprados se trasladarían a la nueva Sala de forma automática.
+
+Agente Xunlai. Permite acceder al baúl de almacenamiento extra. Coste: 10.000
+Armero. Personaliza las armas. Coste: 10.000
+Sacerdote de Balthazar. Entrena habilidades para personajes PvP. Coste: 10.000
+Mercader. Vende y compra ítems. Coste: 25.000
+Comerciante de Runas. Vende y compra tanto insignias como runas. Coste: 25.000
+Comerciante de tintes. Vende y compra tintes. Coste: 50.000
+Comerciante de pergaminos. Vende y compra pergaminos poco frecuentes. Coste: 50.000
+Comerciante de materiales. Vende y compra materiales. Coste: 100.000
+Comerciante de materiales poco frecuentes. Vende y compra materiales poco frecuentes. Coste: 100.000
+Entrenador de Habilidades. A cambio de un módico precio, enseña habilidades para personajes PvE de cualquier campaña. Coste: 100.000
+Facciones[editar]
+Alianzas[editar]
+Siempre y cuando el líder tenga la campaña de Guild Wars: Factions, podrá decidir si entrar a una de las dos facciones disponibles: Luxon (en Cavalon) o Kurzick (en la Casa de Zu Heltzer). Una vez decidido, el clan podrá crear una alianza entre los clanes que desee de la misma facción. La alianza dispone de un chat único para todos los clanes que la conforman.
+
+Grupos con personajes artificiales[editar]
+Esbirros[editar]
+Artículo principal: Anexo:Esbirros de Guild Wars
+Menos en la zona tutorial de Guild Wars: Prophecies, el jugador si no quiere jugar con humanos o no puede realizar grupo al no coincidir con las mismas misiones, podrá solicitar la ayuda a uno o varios esbirros, personajes controlados por la CPU. En cada puesto comercial o ciudad hay varios esbirros para elegir, ocupando un hueco en el grupo como si fuera un humano más. Los esbirros se pueden encontrar de distintas profesiones y niveles dependiendo de la zona, eso sí, las habilidades nunca serán tan buenas como las que pueda tener un jugador humano. Cuando se juega una aventura con esbirros, actuarán como personas siguiendo el patrón de su profesión y seguirán allá donde vaya el grupo o jugador. Los servicios de los esbirros terminan cuando el jugador o grupo entra en otro puesto comercial o ciudad, pudiendo contratar a otros.
+
+Héroes[editar]
+Artículo principal: Anexo:Héroes de Guild Wars
+Los jugadores que tengan Guild Wars: Nightfall, podrán disponer, siempre y cuando cumplan los requisitos y misiones previas, los servicios de los Héroes tanto vayan a un capítulo u otro de la saga siempre y cuando también tengan el Nightfall. La función es similar a los esbirros, pero con la diferencia que pertenecen a un jugador humano, pudiendo decir cuando ir con o sin ellos, además, se pueden modificar las habilidades que usarán, sus armaduras y sus armas. Otra diferencia es que los Héroes podrán moverse de forma automática como los esbirros o el jugador podrá controlar todos sus movimientos y ataques manualmente en caso de jugadores expertos.
+
+Batallas entre jugadores[editar]
+Premios internacionales[editar]
+Mejor juego On-line 2006, en los premios 1UP Awards
+Mejor juego de rol 2005, en los premios IGN Best of 2005
+Mejor diseño artístico 2005, en los premios IGN Best of 2005
+La serie Guild Wars ha recibido varios premios al mejor juego según varias publicaciones especializadas, pero el mayor elogio a la saga fue ganar el premio al mejor MMORPG superando incluso al World of Warcraft y el premio al mejor juego del año. Guild Wars no necesita mas elogios de los que ya tiene, pero es importante destacar que es de los únicos MMORPG que no obliga a pagar cuotas mensuales para poder jugar, una vez comprado el juego puedes jugar eternamente sin pagar nada mas, y no solo esto, sino que Arenanet ha conseguido encontrar la relación perfecta entre calidad gráfica y requerimientos del PC, consiguiendo así un juego con unos gráficos sobrecogedores utilizando una mínima parte del procesamiento de tu PC. En febrero de 2008, NCSoft anunció que se habían vendido 5 millones de copias de Guild Wars.
+
+Una de las características distintivas de este juego es que aunque se asemeja bastante a un MMORPG, los jugadores sólo pueden encontrarse en las ciudades, donde confraternizan y comercian, ya que fuera de ellas el juego se desarrolla mediante instancias, copias privadas del mapa de una determinada zona en las que no te encuentras con nadie humano excepto con los que conforman tu grupo. Dichos grupos pueden ser de hasta 12 miembros como máximo.
+
+Otra característica del videojuego es que consta de dos modos de juego. Una de ellas es el modo historia o rol (PvE) y otro el modo PvP. El modo rol está orientado a la exploración y la cooperación más que en la competición, y constituye una forma entretenida y efectiva de adquirir experiencia, habilidades e ítems para el modo PvP, en el que en el fondo está inspirado Guild Wars. Este modo de lucha competitiva contra otros humanos de todo el mundo, puede ser practicada en las distintas "Arenas de Combate" que el jugador irá encontrando a medida que va descubriendo Tyria (para niveles bajos), o cuando el jugador ya esté experimentado, podrá ir a las "Islas Bélicas", donde escogerá la lucha con un grupo aleatorio de humanos (Arenas al Azar), con un grupo definido por el jugador (Arenas pro Equipos) o ir al Ascenso de Héroe, donde distintos grupos de 8 jugadores se enfrentan entre sí en sucesivas rondas hasta llegar a la llamada Sala de los Héroes. Hay un último modo de juego PvP que requiere formar parte de un Clan o estar invitado por uno para poder jugar a la llamada GvG (acrónimo de Guild Versus Guild, Clan contra Clan), donde 8 miembros de 2 clanes se enfrentarán de forma amistosa o puntuada (mediante la cual se conforma el Ranking mundial) entre sí.
+
+Cuarta entrega. Guild Wars: Eye of the North[editar]
+La primera expansión, la única que requiere que el jugador posea una de las entregas anteriores, de Guild Wars, fue puesta a la venta el día 31 de agosto de 2007 y será la última antes de la llegada de Guild Wars 2. En esta última campaña se pueden ver múltiples elementos que serán decisivos en la segunda parte, como las nuevas razas Asura, Norn y el nacimiento de la raza Sylvari, controladas por la máquina en "Eye of the North" pero jugables por humanos en Guild Wars 2. También se introdujo un lugar llamado "Hall of Monuments", donde se pueden guardar y exponer los títulos conseguidos. A parte se introdujeron nuevos héroes, armas, títulos y armaduras.
+
+"Eye of the north", u Ojo del Norte, si que és una expansión en toda regla, ya que necesita al menos 1 campaña, independientemente de cual de ellas sea, para poder jugar, al contrario de lo que pasa con Factions o Nightfall que pueden jugarse sin tener ninguna campaña previa.
+Novedades[editar]
+40 Nuevas armaduras. 4 para cada profesión.
+100 Habilidades nuevas específicas para cada profesión.
+50 Habilidades nuevas sólo para PvE.
+10 Héroes nuevos.
+El juego está dividido en 3 grandes Actos:
+Primer Acto: Transcurre en "Las Profundidades de Tyria", a lo largo de 18 mazmorras, donde habrá que ayudar a los Enanos en su lucha contra "El Gran Destructor"
+Segundo Acto: Transcurre a lo largo de tres amplios lugares, involucrando a la nueva raza Asura en la primera zona "Costa de Bronce", situada cerca de la jungla de Maguuma. Otra nueva raza son los Norns, medio-gigantes habitantes de "Lejanas Picosescalofriantes" y la última gran zona del segundo acto trancurrirá en el "Territorio de los Charr", al norte de Ascalon.
+Tercer Acto: Consiste en la lucha final contra "El Gran Destructor".
+Funciones[editar]
+Exceptuando la zona tutorial del Prophecies, el jugador podrá seleccionar el modo "Hard" para exprimir el juego de un modo mucho más difícil. En este modo de juego aumenta la peligrosidad de los enemigos, que presentan una selección de habilidades mejor que en el modo normal, pero también aumenta la calidad de los objetos que sueltan como recompensa al ser derrotados. En este modo, además, aparecen en las zonas explorables unos "Cofres cerrados" que solo pueden abrirse mediante "Ganzúas". Estas ganzúas se diferencian de la llaves normales por el hecho de que tienen la posibilidad de ser usadas varias veces (dependerá del nivel que se tenga de "afortunado" y de Caza tesoros para calcular las posibilidades de retención de la ganzúa al abrir un cofre), y pueden usarse también en el modo normal de juego. El modo difícil es necesario para conseguir determinados títulos y aumentar al máximo nivel algunos de ellos (Lancero, Iluminador, etc.).
+
+Misiones[editar]
+Se podrán hacer todas las misiones de las tres campañas y la expansión.
+
+Tyria: 25 misiones en Hard Mode. Al conseguirlo, el jugador tendrá el título honorífico de Guardián de Tyria.
+Cantha: 13 misiones en Hard Mode. Al conseguirlo, el jugador tendrá el título honorífico de Guardián de Cantha.
+Elona: 20 misiones en Hard Mode Al conseguirlo, el jugador tendrá el título honorífico de Guardián de Elona.
+
+
+Mascotas disponibles en Tyria[editar]
+En el Tutorial:
+
+Avestruz.
+Felino de Melandru.
+Jabalí Verrugoso.
+Lobo.
+Oso Negro
+Después del Tutorial:
+
+Araña.
+Felino de Melandru.
+Jabalí Verrugoso.
+Lagarto.
+Lince.
+Lobo de las Nieves.
+Lobo Viejo.
+Oso Negro.
+Pájaro Moa.
+
+
+Centolla Roja
+Fénix
+Grulla
+Moa Negro
+Tigre
+Tigre Blanco
+Mascotas disponibles en Elona[editar]
+Cerdo Verrugoso
+Cocodrilo
+Flamenco
+Hiena
+León
+Leona
+Rata de Jahai
+Mascotas disponibles en el Ojo del Norte[editar]
+Águila montañosa
+Cangrejo blanco
+Iguana
+Cerdo verrugoso
+Lobo blanco
+Lobo negro
+Lobo de las nieves
+Moa blanco
+Oso polar
+Rata albina
+Fenix arcoiris
+Mascotas disponibles en el Inframundo[editar]
+Accesible desde todas las campañas.
+
+Viuda negra
+Esbirros de Tyria[editar]
+Elementalista. Cynn
+Elementalista. Orion Elek
+Guardabosques. Aidan
+Guardabosques. Reyna
+Guerrera. Devona
+Guerrero. Pequeño Thom
+Guerrero. Stephan
+Hipnotizador. Dunham
+Monja. Alessia
+Monja. Lina
+Monje. Hermano Mhenlo
+Nigromante. Claude
+Nigromante. Eve
+
+
+Esbirros de Cantha[editar]
+Asesina. Emi
+Asesina. Mai
+Asesino. Panaku
+Elementalista. Argo
+Elementalista. Vhang
+Elementalista. Kai Ying
+Elementalista. Kisai
+Guardabosques. Aidan
+Guardabosques. Aurora
+Guardabosques. Daeman
+Guardabosques. Yuun
+Guardabosques. Zho
+Guerrera. Devona
+Guerrero. Almirante Eli
+Guerrero. Lukas
+Guerrero. Talon
+Hipnotizador. Erys
+Hipnotizador. Lo Sha
+Hipnotizador. Almirante Hala
+Monje. Danika
+Monje. Hermana Tai
+Monje. Jamei
+Monje. Taya
+Monje. Karl
+Nigromante. Brutus
+Nigromante. Eve
+Nigromante. Sheena
+Nigromante. Su
+
+
+Esbirros de Elona[editar]
+Derviche. Gehraz
+Paragón. Sogolon
+Elementalista. Herta
+Elementalista. Cynn
+Guardabosques. Abasi
+Guardabosques. Aidan
+Guerrera. Devona
+Guerrera. Timera
+Hipnotizadora. Odurra
+Monja. Kihm
+Monje. Mhenlo
+Nigromante. Eve
+Aparte de los héroes de elona.
+
+
+Ganando batallas GvG de alto nivel (cuando los dos clanes, tienen más de 1.200 puntos en el ranking).
+Ganando batallas en las "Arenas al Azar" o en las "Arenas por Equipos".
+Ganando puntos de "Fama" en las batallas en el "Ascenso del Héroe".
+Ganando puntos de "Facción".
+Ganando batallas de héroes.
+Ganando en los minijuegos de los eventos especiales.
+Teniendo suerte en los eventos especiales con los juegos de azar.
+Teniendo mala suerte en los eventos especiales con los juegos de azar.
+
+
+Emblemas[editar]
+El emblema es un elemento decorativo que se verá reflejado en las capas de los miembros del clan, una vez comprado por parte del líder. Más adelante, el emblema será un elemento imprescindible si el clan decide formar una alianza. Para crear un diseño, el líder del clan se tendrá que desplazar en una de las mismas ciudades donde se localizaba el Registrador de Clanes, para así poder ver el surtido de diseños del Creador de Emblemas.
+
+
+
+Ediciones Especiales[editar]
+Kuunavang. Verde. Exclusivo para la Edición Coleccionista del Factions.
+Varesh. Verde. Exclusivo para Edición Coleccionista nightfall)
+Conseguidos dentro del juego[editar]
+Cerdo berrugoso. Dorado. Personaje del Factions. Regalo fin de año Canthiano 2007.
+Escarabajo. Dorado. Muy raro. Personaje del Nightfall. Regalo a los Tops 100 de las carreras de escarabajos durante la celebración de fin de año Canthiano 2007.
+Mallyx. Dorado. Muy raro. Personaje del Nightfall. Regalo y con mucha suerte, al abrir un Cofre de los Secretos.
+Héroe Fantasma. Raro. Personaje del Prophecies. Regalo y con mucha suerte, al abrir un cofre al final del Ascenso del Héroe.
+Conseguidos fuera del juego[editar]
+Kanaxai. Verde. Extremadamente raro y limitado. Sólo hay unos 30 en todo mundo. Personaje del Factions. Lo dieron en torneos especiales de Japón y Taiwán.
+Panda. Dorado. Muy raro y limitado. Tenía que ser un personaje del Factions. Lo dieron en torneos especiales de Japón y Taiwán.
+Guardián de Isla. Dorado. Raro y limitado. Personaje del Factions. Lo dieron en torneos especiales de Japón y Taiwán.
+Yeti. Morado. Limitado. Personaje del Factions. Lo dieron en torneos especiales de Japón y Taiwán.
+Naga. Morado. Limitado. Personaje del Factions. Lo dieron en torneos especiales de Japón y Taiwán.
+Oni. Morado. Limitado. Personaje del Factions. Lo dieron en torneos especiales de Japón y Taiwán.
+Gigante Gris. Dorado. Personaje del Nightfall. Lo dieron al comprar ciertas revistas americanas y europeas.
+Asura. Dorado. Personaje de la última expansión Eye of the North y Guild Wars 2. Lo dieron al comprar ciertas revistas americanas y europeas.
+Guild Wars 2[editar]
+La secuela, Guild Wars 2, fue anunciada en marzo de 2007. mejorar el manejo de los personajes, unos gráficos mucho más mejorados y por supuesto, seguirá siendo un juego sin cuotas mensuales.
+
+Véase también[editar]
+Guild Wars 2
+Enlaces externos[editar]
+Sitios web oficiales[editar]
+Sitio web oficial de Guild Wars (en español)
+Sitio web oficial de Guild Wars (en inglés)
+Fansites oficiales[editar]
+Comunidad mundial de Guild Wars, especialista en subastas - Clasificada como fansite oficial de Élite (en inglés)
+Comunidad hispanohablante de Guild Wars - Clasificada como fansite oficial de Élite.
+Comunidad hispanohablante de Guild Wars - Clasificada como fansite oficial. Uso incorrecto de la plantilla enlace roto (enlace roto disponible en Internet Archive; véase el historial y la última versión).
+Wikis dedicadas[editar]
+Wiki oficial de Guild Wars, con más de 18.000 artículos (en inglés)
+Wiki no oficial de Guild Wars, con más de 18.000 artículos (en inglés)
+Wiki no oficial de Guild Wars, con más de 14.000 artículos (en español)

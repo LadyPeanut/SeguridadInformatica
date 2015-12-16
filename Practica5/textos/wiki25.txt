@@ -1,0 +1,83 @@
+﻿Cuarenta y dos
+42
+Cardinal	Cuarenta y dos
+Ordinal	Cuadragésimo segundo, -a
+Factorización	2 × 3 × 7
+Sistemas de numeración
+Romana	XLII
+Ática	ΔΔΔΔΙ
+Jónica	μβ
+China	四十二
+China tradicional	肆 拾 貳
+Egipcia	⋂⋂⋂⋂II
+Armenia	ԽԲ
+Maya	Maya 2.svg
+Maya 2.svg
+Cirílica	МB
+De los Campos de Urnas	⋀
+India	௪௰௨
+Sistema binario	101010
+Sistema octal	52
+Sistema hexadecimal	2A
+Como parámetro de una función
+Función φ de Euler	12
+Función divisor	6
+Función de Möbius	-1
+Función de Mertens	-2
+cuarenta y uno	42	cuarenta y tres
+Lista de números
+[editar datos en Wikidata ]
+El cuarenta y dos (42) es el número natural que sigue al cuarenta y uno y precede al cuarenta y tres.
+
+Índice  [ocultar] 
+1 Propiedades matemáticas
+2 Características
+3 En la informática
+4 Cultura popular
+4.1 Simbología binaria en la cultura popular
+5 Referencias
+6 Véase también
+Propiedades matemáticas[editar]
+Es un número compuesto, que tiene los siguientes factores propios: 1, 2, 3, 6, 7, 14 y 21. Como la suma de sus factores es 54 > 42, se trata de un número abundante.
+Es un número de Catalan.
+Características[editar]
+42 es el número del número atómico del molibdeno
+En la informática[editar]
+Número mágico usado por programadores
+El carácter que es representado por el número 42 en el sistema ASCII es el *, el asterisco, también conocido como carácter comodín.
+En todas las imágenes en formato TIFF, la segunda palabra de 16 bits es 42, la cual es usada junto con la primera palabra para indicar el orden de los bytes
+En el sistema de archivos reiser4, 42 es el número de inodo del directorio raíz.
+La librería C de GNU, conjuntos de rutinas utilizadas en la programación, contiene una función—memfrob()—la cual ejecuta operaciones XOR sobre una determinada variable utilizando el número binario 00101010 (42) como cifrado XOR.
+42 es el resultado obtenido de los motores de búsqueda Google, Wolfram Alpha y Bing cuando se ingresa la consulta "the answer to life the universe and everything"
+El logo de Microsoft Windows 3.x está formado por 42 cuadrados que forman la cola izquierda.1
+El chat de Facebook tuvo un emoticon especial, cuando una persona escribía ":42:" en el chat, el número aparecía en blanco sobre una caja roja.
+Cultura popular[editar]
+Es la respuesta del sentido de la vida, el universo y todo lo demás.
+42 es el sexto y último número de la serie de Lost.
+En la Serie The X-Files El protagonista Fox Mulder, vive en el departamento 42.
+42 es el título de un episodio de Doctor Who.
+Fue el número usado por Jackie Robinson cuando jugaba con los Brooklyn Dodgers, el cual está retirado en todas los equipos de las Grandes Ligas.
+«42» es el título de una canción de la banda británica Coldplay.
+Simbología binaria en la cultura popular[editar]
+
+Sumados en línea, este cubo de 3x3x3 da siempre 42.
+Dada su representación binaria, 101010, es de gran significado por ejemplo para la cultura Geek y friki, como se puede apreciar en la temática de ciencia ficción ya mencionada (The X-Files, The Hitchhiker's Guide to the Galaxy, Lost…). El grupo geek Geeks Without Bounds, utilizaron la fecha de la representación binaria (10 de octubre de 2010) para lanzar su campaña (101010 +) GWOBorg Hackathon) por el acceso a la información en países desfavorecidos.2
+
+En este sentido, incluso Canonical decidió lanzar Ubuntu 10.10 (Maverick Meerkat) con eslóganes del tipo redondo, perfecto....3 aunque en realidad la fecha de lanzamiento pueda parecer obvia.
+
+Para otros grupos como los ecologistas también ha sido significante. Greenpeace por ejemplo aprovechó la fecha para lanzar su campaña Greenpeace 10/10/10 Day of Climate Action (Día de Soluciones Climáticas)4 liderando una acción global también emprendida en el mismo sentido por la ONG 350.org.5
+
+Mientras, en Twitter y Facebook también se estableció tal fecha como El día del porno (hashtag #diaporno) por su representación en numeración romana (XXX).6 7 8
+
+Referencias[editar]
+Volver arriba ↑ Logo de Windows 3.1
+Volver arriba ↑ shanno (GWOBorg) (8 de octubre de 2010). «Tomorrow’s 101010 Hackathon, Have You Signed Up Yet?» (en inglés). Gwob.org. Consultado el 16 de noviembre de 2010.
+Volver arriba ↑ Canonical. . Ubuntu.com. Archivado desde el original el 15 Nov 2010 21:49:03 GMT. Consultado el 16 de noviembre de 2010. «The perfect 10 is here!».
+Volver arriba ↑ Greenpeace (14 de octubre de 2010). «Greenpeace 10/10/10 Day of Climate Action» (en inglés). Greenpeace.com. Consultado el 16 de noviembre de 2010.
+Volver arriba ↑ Agencia AFP (10 de octubre de 2010). «Más de 7.000 acciones cívicas en el mundo el 'Día de Soluciones Climáticas'». Sídney: Google Hosted News. Archivado desde el original el 2013-04-11. Consultado el 16 de noviembre de 2010.
+Volver arriba ↑ Alberto Escorcia (10 de octubre de 2010). «Pateandopiedras.com La fecha 10/10/10, el día 42, el día binario y el día XXX». PateandoPiedras.com. Consultado el 16 de noviembre de 2010.
+Volver arriba ↑ Whicho (10 de octubre de 2010). «42: La respuesta a la Vida, el Universo, y Todo lo Demás». Microsiervos.com. Consultado el 16 de noviembre de 2010.
+Volver arriba ↑ Alvy (vía Slashdot.com) (27 de marzo de 2006). «42: realmente ES la respuesta». Microsiervos.com. Consultado el 16 de noviembre de 2010.
+Véase también[editar]
+Números primos
+Hipótesis de Riemann

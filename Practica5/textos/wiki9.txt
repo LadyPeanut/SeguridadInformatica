@@ -1,0 +1,93 @@
+﻿Munchkin (juego de cartas)
+Munchkin
+Mata a los monstruos. Roba el tesoro. Apuñala a tus amigos
+Manchkin (game in process).jpg
+Partida de Munchkin en curso
+Diseñado por	Steve Jackson
+Ilustrador	John Kovalic
+Editorial	Steve Jackson Games
+Jugadores	3-6
+Edades	12 +
+Preparación	Menos de 5 minutos
+Duración	45–60 minutos
+Complejidad	Normal
+Azar	Alto
+[editar datos en Wikidata ]
+Munchkin es un juego de cartas de rol diseñado por Steve Jackson e ilustrado por John Kovalic para Steve Jackson Games. El lema que resume el objetivo del juego es Mata a los monstruos, roba el tesoro, apuñala a tus amigos.
+
+Índice  [ocultar] 
+1 Objetivo del juego
+2 Fases del juego
+3 Tipos de cartas
+4 Expansiones del juego
+4.1 En español
+4.2 En inglés
+4.3 Complementos
+4.4 Spin-offs
+5 Curiosidades
+6 Referencias
+7 Enlaces externos
+Objetivo del juego[editar]
+En Munchkin, un jugador empieza siendo un humano de nivel 1 sin clase y su objetivo consiste en alcanzar el nivel 10 antes de que los demás consigan hacerlo. Para ello, cada jugador debe enfrentarse a monstruos encontrados en la mazmorra con la ayuda de armas, superar maldiciones que podrían molestar enormemente y emplear sabiamente el equipamiento encontrado en las mazmorras.
+
+Fases del juego[editar]
+Abrir la puerta de una patada: coges una de las cartas del mazo de «mazmorra» (los que tienen una puerta de madera, previamente diciendo patada a la puerta). Dependiendo de lo que te encuentres, el resultado final será una cosa u otra:
+Monstruo: deberás enfrentarte a él, a no ser que se considere amistoso. Para poder vencer, tu nivel mas los Bonus obtenidos mediante las armas (nivel de combate) debe ser superior al nivel del monstruo mas los Bonus que se le puedan aplicar. Los otros jugadores pueden influir en los combates ayudando al monstruo, incluso añadiendo más a la contienda, o reduciendo tu nivel de combate. Si te encuentras con que no puedes ganar al o a los monstruos, puedes pedir ayuda a los demás (solamente podrá ayudarte una persona) o tratar de huir. Si lo derrotas, sube 1 nivel (a menos que se indique lo contrario) y roba los tesoros que se indican, repartidos según lo acordado si te han ayudado.
+Maldiciones: a menos que tengas algún equipamiento anti-maldiciones, esta maldición se aplica automáticamente. Si la maldición no puede hacer ningún daño real (por ejemplo, te obliga a perder el calzado cuando ya vas descalzo) se descarta sin ningún daño.
+Raza o clase: te puedes quedar esa carta automáticamente y aplicártela a ti mismo si te interesa y no tienes nada que te lo impida.
+Buscarte problemas: si no te has encontrado con un monstruo y tienes uno en tu mano al que puedas derrotar, puedes jugarlo y enfrentarte a él. Ten cuidado, los demás pueden ayudar al monstruo.
+Saquear la habitación: sólo si has derrotado a un monstruo (o a varios) y no has huido, al abrir la puerta o buscando problemas, podrás robar las cartas de tesoros que los monstruos te den. Si los venciste sin ayuda las robas boca abajo pero, si alguien te ayudó, a parte de repartirlas según lo acordado, las cartas se robarán boca arriba. Si no has sacado monstruo y no quieres buscarte problemas, o el monstruo es amistoso, saca otra carta de «mazmorra» boca abajo y guárdala.
+Caridad, comercio y soborno: si lo deseas, puedes «vender» objetos por un precio de 1000 piezas de oro para subir un nivel. Si tienes más de 5 cartas en la mano (6 si eres un enano) debes darle las sobrantes al jugador o jugadores (empatados) con menos nivel, siempre en el orden que tú quieras. Además podrás hacerte con favores de otros jugadores sobornándoles con objetos que les puedan interesar, consiguiendo, por ejemplo, que no interfieran contra ti en el próximo combate que tengas.
+Tipos de cartas[editar]
+Armas y armaduras: cuando eliminas a un monstruo, puedes robar cartas del mazo de tesoro. Por lo general, los tesoros suelen ser armas o armaduras.Cada carta de objeto tiene un nombre , un poder , un tamaño y un valor de piezas de oro como la Motosierra de Mutilación Sangrienta o la «Armadura Llameante». Cada arma tiene un bonus diferente y puede ocurrir que sólo pueda ser usada por un tipo concreto de personaje, como un Elfo o un Ladrón. Estas cartas se pueden bajar a la mesa y existe un límite para el número de cartas que se puede tener. Por ejemplo, y salvo que se tenga otra carta que te indique lo contrario, no puede llevarse «puesta» más de una armadura, un tipo de calzado o un 'cubrecabezas' (elemento que se lleva en la cabeza), tampoco puedes llevar armas que ocupen más de 2 manos a no ser que halla una carta que diga lo contrario y tampoco puedes llevar más de un objeto grande(a no ser que seas enano).
+Subida de nivel: también puede ocurrir que consigas una carta que permita subir un nivel automáticamente, como «Sobornar al Master con comida» o «Contemplar tu Ombligo». Algunos tienen efectos especiales o sólo pueden usarse bajo diversas circunstancias. Una de las más conocidas es «Intervención divina», que es la única forma, aparte de derrotar a un monstruo, que permite ganar a un jugador. No se bajan a la mesa y se pueden jugar en cualquier momento sobre cualquier jugador.
+Pociones: dentro de esta categoría entran todas aquellas cosas de un solo uso, como la «Poción de Ácido Electrorradiactivo» o los «Globos de colores». Permiten aumentar el nivel de combate de uno de los combatientes, pero sólo durante un combate. De forma regular no se pueden bajar a la mesa, pero si se acuerda lo contrario, antes de la partida, se pueden bajar cuantas se quiera o un número determinado, también hay algunas pociones que no tienen bonus pero tienen habilidades especiales como la poción de pollimorficacion.
+Aumentadores de nivel: específicos para monstruos, como «Enfadado» o «Inconmensurable». Muy empleado para derrotar a un oponente apoyando a un monstruo, aunque es posible utilizarlo en un monstruo débil para vencerlo y obtener más tesoros de una vez.
+Monstruos: si lo robas del mazo, puedes utilizarlo para buscarte problemas o en combinación con «Monstruo Errante» para poder derrotar a un contrario (combinado con un monstruo poderoso como el «Dragón de Plutonio» puede ser ampliamente irritante para el que recibe el ataque).
+Maldiciones: bien utilizadas, pueden dar la vuelta a la tortilla en cualquier partida. Por ejemplo, la «Maldición desde la tumba» combinada con un monstruo con un «Mal Rollo» muy malo puede ser especialmente jugoso.
+Raza: la raza se puede elegir de las que se tenga en mano, y puede cambiar a lo largo del juego. Se empieza como humano, y se puede cambiar a elfo, enano, mediano, orco o gnomo, cada uno con distintas habilidades. Por ejemplo, un elfo tiene un bonus de +1 a huir, y cada vez que ayuda a otro personaje sube un nivel como si hubiera combatido él al monstruo.
+Clase: funciona igual que la raza, y define la profesión. Se puede elegir entre guerrero, mago, clérigo, ladrón o bardo. Cada una tiene sus ventajas: por ejemplo, un guerrero puede aumentar su nivel de combate descartándose de cartas y para ganar le basta tener el mismo nivel de combate que el monstruo.
+Especiales: son cartas como «Monstruo errante» que permite sumar un monstruo al combate, «He salido a comer, vuelvo en 5 minutos» que hace que el monstruo (o monstruos) no se encuentre en su mazmorra y puedas saquearla sin tener que pelear, o «Poción de Pollimorfización» que permite convertir al monstruo en un pollo y llevarte sus tesoros.
+Expansiones del juego[editar]
+En español[editar]
+La editorial sevillana Edge Entertainment tradujo libremente y publicó Munchkin en castellano en 2004. Después de la primera edición, que incluye la reglas básicas, ha publicado hasta nueve expansiones más:
+
+Munchkin 2: Hacha Descomunal (Unnatural Axe): en esta expansión se incluyen 112 cartas con nuevas armas, monstruos y la raza de los Orcos.
+Munchkin 3: Pifias clericales (Clerical Errors): en esta expansión se añaden 112 cartas con una nueva raza (Gnomo) y una nueva clase (Bardo), aparte de más objetos y monstruos.
+Munchkin 4: ¡Qué Locura de Montura! (The Need for Steed): en esta expansión se incluyen 112 cartas con escuderos (que pueden ayudarte a llevar armas que a lo mejor tú no puedes llevar, además de sacrificarse por ti en los malos rollos) y monturas.
+Munchkin 5: Exploradores Explotadores (De-ranged): en esta expansión se incluyen 112 cartas con una nueva clase (Explorador) con la que se pueden domar monstruos para usarlos como monturas. Aparte se incluyen nuevos tesoros y monstruos.
+Munchkin 6: Mazmorras majaretas (Demented Dungeons): Incluye 20 cartas de mazmorra (de doble tamaño), que añaden reglas que afectan a todos los jugadores, y 16 cartas de portal, para saltar de una mazmorra a otra. Esta expansión presenta un gran giro a la dinámica del juego.
+Munchkin 7: Trampas a dos manos (Cheat With Both Hands): en esta expansión se incluyen 56 cartas elegidas por los fans.
+Munchkin 8: Centauros de la mazmorra (Half Horse, Will Travel): en esta expansión se incluyen 112 cartas con dos nuevas razas (Centauros y Hombres lagarto), así como mejoras de raza y clase (De Élite, Legendario o Primigenio). Aparte se incluyen nuevos tesoros y monstruos.
+Munchkin: Destruye la Navidad (Munchkin—Waiting For Santa): Incluye un nuevo tipo de criatura, los monstruos Santánicos.
+Munchkinomicón (Munchkinomicon): Incluye Munchkinomicón (una carta de objeto), 14 cartas que representan los hechizos que contiene, así como otras 45 cartas de mazmorras y tesoros.
+En inglés[editar]
+En inglés existen más expansiones como:
+
+Munchkin 3.5: Clerical Errata (Clerical Errors 3.5): esta expansión, publicada sólo en inglés, es en realidad un fallo de imprenta de Clerical Errors en el que 28 cartas tienen el reverso erróneo (Puerta por Tesoro y viceversa). No obstante, posee sus propias reglas para poder jugar con dichas cartas.
+Complementos[editar]
+Además de los packs de cartas, también existen otros complementos que incorporan cartas y reglas adicionales:
+
+Camiseta Munchkin: existen varios modelos (según la imagen y si lleva el autógrafo del autor o no) e incorpora al juego nuevas cartas y reglas, como la de poder deshacerse de la camiseta si se lleva puesta en vez de una armadura del juego que proporcione un bonus para el combate.
+Dados Munchkin: se trata de un juego de seis dados de 10 caras para utilizar como marcadores de nivel y que incorpora 16 cartas nuevas, como «Maestro» u «Oscuro», que se pueden agregar a la raza o clase y que implementan nuevas características y habilidades a quienes las posean.
+Spin-offs[editar]
+También, en inglés hay spin-offs como Star Munchkin, Super Munchkin y Munchkin Cthulhu (ya editados en España) (basado en Star Wars, Superhéroes y La llamada de Cthulhu), Munchkin Fu (basado en artes marciales), Munchkin Bites (basado en vampiros y hombre-lobo), Munchkin Impossible (basado en espías), Munchkin Booty (basado en piratas), The good, the bad and the Munchkin (basado en el Far West).
+
+Expansiones editadas en España:
+Star Munchkin: Star Munchkin 2, Las Guerras Clown.
+Munchkin Cthulhu: Munchkin Cthulhu 2, El Mugido de Cthulhu; Munchkin Cthulhu 3, La Cripta Innombrable y Munchkin Cthulhu 4, Grutas Grilladas
+
+Curiosidades[editar]
+Munchkin era la gente que vivía en la tierra del Este, donde reinaba la Bruja Mala, en el libro El maravilloso Mago de Oz, de Lyman Frank Baum.1
+También se llama Munchkin a una raza de gatos originaria de Lousiana, Estados Unidos, aunque hay antecedentes en Inglaterra y Rusia durante la primera mitad del siglo XX.2
+Existe un casi desconocido musical titulado The Munchkin Poet o El poeta munchkin, basado en la vida real de un poeta cuya obra nunca fue publicada.
+Un antiguo videojuego de una de las primeras consolas del mercado llamada Philips Videopac G7000, también contaba con Munchkin como título, sin duda basado en los personajes de El Mago de Oz.3
+Munchkin es, también, la forma de denominar a los jugadores de rol que crean personajes con características muy diversas y potentes (incluso aunque posean un nivel bajo) valiéndose de rebuscadas combinaciones de reglas de los manuales de juego. De hecho la filosofía del juego de cartas es precisamente hacer un personaje de este estilo para tener ventaja sobre los demás jugadores y las circunstancias que se avengan.
+Referencias[editar]
+Volver arriba ↑ «Dos capítulos de El Mago de Oz, de L. Frank Baum - Imaginaria No. 90 - 20 de noviembre de 2002».
+Volver arriba ↑ «Gato munchkin. Información sobre gato munchkin».
+Volver arriba ↑ «Philips Videopac Games».
+Enlaces externos[editar]
+Página oficial (en inglés)
+Página oficial (en español)
+[1] Artículos de extensiones sobre Munchkin.

@@ -1,0 +1,66 @@
+﻿Bucle while
+(Redirigido desde «While»)
+Commons-emblem-question book orange.svg
+Este artículo o sección necesita referencias que aparezcan en una publicación acreditada, como revistas especializadas, monografías, prensa diaria o páginas de Internet fidedignas. Este aviso fue puesto el 25 de febrero de 2012.
+Puedes añadirlas o avisar al autor principal del artículo en su página de discusión pegando: {{subst:Aviso referencias|Bucle while}} ~~~~
+
+Diagrama de bucle While.
+El Bucle while o bucle mientras es una estructura de la mayoría de los lenguajes de programación estructurados cuyo propósito es repetir un bloque de código mientras una condición se mantenga verdadera.
+
+Índice  [ocultar] 
+1 Sintaxis
+2 Condición
+2.1 Sentencias Comparativas
+2.2 Particularidades de lenguajes
+3 Ejemplo (usando sintaxis de C)
+4 Ejemplo (usando el lenguaje Lexico)
+5 Véase también
+Sintaxis[editar]
+La sintaxis en pseudocódigo es la siguiente: becerryl
+
+
+   {\color{Sepia}      \mathit{ mientras }} \;
+   {\color{OliveGreen} \mathit{ condici \acute{o} n }} \;
+   {\color{Sepia}      \mathit{ hacer }}
+ 
+   {\color{BlueViolet} \mathit{ instrucciones }}
+
+   {\color{Sepia}      \mathit{ fin \; mientras }}
+Condición[editar]
+La condición ha de ser una sentencia que devuelva un valor booleano, y esta puede ser el valor booleano en sí, verdadero(true) si la condición se cumple, o falso si esta no se cumple(false). También puede contener el nombre de una variable booleana, y el valor de la expresión dependerá de su contenido. Se debe tener en cuenta que además de las variables también puede haber llamadas a funciones que devuelvan un valor.
+
+Sentencias Comparativas[editar]
+La forma más obvia tal vez, y la más usada sin duda, son las sentencias comparativas, que usan los operandos igual, diferente, menor o igual, mayor o igual, menor y mayor. En el caso del lenguaje C, se utilizan los siguientes símbolos para representar las comparaciones anteriores: ==, !=, <=, >=, <, >,
+
+Particularidades de lenguajes[editar]
+En algunos lenguajes, se pueden utilizar variables no booleanas en la comparación: Por ejemplo, si la variable vale 0 será como si la condición no se cumpliera, y siempre que sea diferente de 0, se considerará que la condición se cumple.
+
+Ejemplo (usando sintaxis de C)[editar]
+#include <stdio.h>
+int main(){
+     int tecla = 0;
+     while(tecla == 0){
+          scanf("%i",&tecla); /* Leemos el numero ingresado */
+     }
+}
+En este ejemplo el programa va a leer la pulsación de una tecla mientras su valor sea igual a cero, en el momento en el que se pulse una Tecla distinta, se detendrá.
+
+Ejemplo (usando el lenguaje Lexico)[editar]
+Genera y muestra los primeros 10 números naturales:
+
+tarea
+{
+   el objeto número_natural es una cantidad
+   copie 0 en número_natural
+   mientras número_natural < 10 haga:
+   {
+       copie número_natural + 1 en número_natural
+       muestre número_natural
+   }
+}
+Véase también[editar]
+Bucle (programación)
+Bucle for
+Bucle repetir
+Estructuras de control
+Programación estructurada

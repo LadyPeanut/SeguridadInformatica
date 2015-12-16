@@ -1,0 +1,413 @@
+﻿Pixar
+Pixar Animation Studios
+Pixar logo.svg
+Tipo	Subsidiaria de Buena Vista Motion Pictures Group (Disney)
+Industria	CGI animación
+Fundación	3 de febrero de 1986 por Steve Jobs y John Lasseter
+Sede	Emeryville, California
+Flag of the United States.svg Estados Unidos
+Personas clave	Ed Catmull, presidente de Disney y Pixar Animation Estudios
+John Lasseter, vicepresidente, presidente creativo de Disney y Pixar Animation Estudios
+Productos	RenderMan, Marionette
+Matriz	Walt Disney Company
+Sitio web	www.pixar.com
+[editar datos en Wikidata ]
+Pixar Animation Studios es una compañía estadounidense de animación por computadora especializada en la producción de gráficos en 3D, comprada por Disney y con sede en Emeryville, California (Estados Unidos). A lo largo de su exitosa historia ha cosechado numerosas condecoraciones por sus cortometrajes, largometrajes y logros técnicos, como 27 premios Óscar de la Academia, siete Globos de Oro, once Grammys o siete Premios Annie.
+
+Siete de sus películas han recibido el Premio Óscar a la mejor película animada desde que el mismo se instauró en 2001.
+
+Pixar fue la creadora del primer largometraje comercial totalmente animado por ordenador, Toy Story, cuyo estreno tuvo lugar el 22 de noviembre de 1995 en Estados Unidos. Después de Toy Story ha presentado otras 13 películas: Bichos, una aventura en miniatura (1998), Toy Story 2 (1999), Monsters, Inc. (2001), Buscando a Nemo (2003), Los Increíbles (2004), Cars (2006), Ratatouille (2007), WALL·E (2008), Up (2009), Toy Story 3 (2010), Cars 2 (2011), Brave (2012) y Monsters University (2013). Además, tiene en producción otros tres proyectos: The Good Dinosaur (2015), Inside Out (2015), Buscando a Dory (2016) y Día de los muertos (2016)
+
+El 24 de enero de 2006 Pixar fue absorbida por la compañía Walt Disney Company al comprar todas las acciones —all-stock— por 7400 millones de dólares. La adquisición finalizó el 5 de mayo de 2006 cuando Pixar recibió 2,3 partes de Disney para convertirse por completo en una subsidiaria de Disney.
+
+El 18 de marzo de 2014, Pixar anunció por su cuenta de Twitter que, oficialmente, están haciendo una secuela de Los Increíbles y de Cars 2 así como re-estrenar Los Increíbles y Ratatouille en 3D1 .
+
+Índice  [ocultar] 
+1 Historia
+2 La creación
+3 Producciones
+3.1 Largometrajes
+3.1.1 En producción
+4 Cortometrajes
+4.1 Cars Toons
+4.2 Otras producciones
+4.3 Producciones canceladas
+5 Referencias
+6 Enlaces externos
+7 Bibliografía
+8 Referencias
+9 Véase también
+10 Enlaces externos
+Historia[editar]
+
+Entrada de los estudios de Pixar Emeryville.
+Pixar se fundó como una división de Lucasfilm,bajo la denominación The Graphics Group, con la contratación en 1979 del doctor del Instituto de Tecnología de Nueva York (NYIT) Ed Catmull.2 En NYIT, los investigadores trabajaron en una película experimental llamada The Works, aunque nunca fue estrenada. Cuando el grupo se independizó de Lucasfilm el equipo trabajó en crear un precursor de RenderMan llamado 'Motion Doctor', que permitiría que los animadores tradicionales realizaran animación con computadora sin necesidad de experiencia previa.
+
+Seguidamente, el equipo empezó a trabajar en las sucesiones de las películas producidas para Lucasfilm o en las películas con Industrial Light & Magic.2 Después de años de éxito e investigación, con hitos importantes en películas como La ira de Khan y El secreto de la pirámide,2 el grupo fue comprado en 1986 por Steve Jobs —tras dejar Apple— por 5 millones de dólares a George Lucas; e invirtió otros 5 millones de dólares de capital en la compañía. Un factor que contribuyó para la venta fueron las dificultades para obtener liquidez tras la separación de Lucas en 1983, que coincidió además con la baja repentina de los créditos de Star Wars tras el lanzamiento de Return of the Jedi y al desastre de recaudación de Howard the Duck.2 La compañía pasó a ser encabezada por Ed Catmull, presidente y gerente, y Alvy Ray Smith, vicepresidente ejecutivo y director de la compañía. Los trabajos sirvieron como base del presidente.
+Inicialmente, Pixar era una compañía de hardware gráfico cuyo producto base fue la Pixar Image Computer, un sistema vendido sobre todo a agencias estatales y la comunidad médica. Uno de los principales compradores de estas computadoras eran los estudios Disney, que utilizaban el dispositivo como parte de sus proyectos secretos CAPS, usando las máquinas y el software para emigrar el proceso de animación de tinta a un método automatizado y más eficiente.
+
+La etapa de cortometrajes se vio interrumpida cuando en mayo de 1991 Pixar y Disney unieron fuerzas mediante un contrato en el que se estipulaba la realización de dos largometrajes. Después del estreno de estas dos películas se realizó un nuevo contrato para cinco películas más. Para ello, ambas compañías compartirían gastos y beneficios a partes iguales; y Pixar conseguía además que su nombre figurara como “realizadora”, pero no como propietaria.
+
+La primera de estas películas en ver la luz fue Toy Story, dirigida John Lasseter, un antiguo trabajador de Walt Disney. Con esta película lograron un Óscar especial por realizar la primera película animada por computador de la historia. Además se convirtió en la película más taquillera de 1995 al recaudar más de 360 millones de dólares. Posteriormente, Monsters, Inc resultó un nuevo éxito en las taquillas y alzó a Pixar a lo más alto del panorama cinematográfico.
+
+No fue hasta 2004 cuando Pixar y los estudios Disney rompen relaciones; pero el 24 de enero de 2006 Disney adquirió Pixar por 7400 millones de dólares. En la transacción Disney le cedió el control de su estudio de animación a los directores creativos de Pixar. Con la operación, Steve Jobs se convirtió en uno de los mayores accionistas de Disney.
+Como el intercambio de activos es una operación de Disney y Pixar, decidieron extender su contrato de distribución hasta 2007 con una sola producción, Ratatouille. Esta película fue distribuida por Disney pero pagada por Pixar, por lo que mantuvo los derechos de explotación. Puesto que al terminar la compra todos los derechos de Pixar pasarían a ser de la propiedad de Disney, los derechos de Ratatouille se adjudicaron a Pixar como previsión en el caso de que la fusión fallase. En cuanto a las animaciones, se ha buscado una mayor rentabilidad, reduciendo en inversiones de innovación y se ha recortado en la etapa de producción, validando antes el resultado.[cita requerida]
+
+La compañía hasta 2010 había ganado 2500 millones de dólares en todo el mundo, 150 millones en DVD y 16 Premios Óscar. Ese mismo año, Pixar fundó Pixar Canada, un estudio localizado en Vancouver, Canadá, que tenía la tarea de hacer cortometrajes basados en películas como Toy Story Toons y Cars Toons.
+Al año siguiente, en 2011, Pixar fundó un segundo edificio al lado del original, con la principal meta de poner en producción más proyectos. El edificio nuevo fue llamado Phase II, aunque es conocido dentro de la compañía como el Brooklyn; mientras que en las primeras instalaciones mantienen el nombre de The Steve Jobs Building ('el edificio Steve Jobs' en español), en honor al fallecido cofundador Steve Jobs.
+
+La creación[editar]
+Aunque la creación ha variado de unas películas a otras y tras la compra por Disney se adoptaron en su mayoría las formas creativas de esta en algunos aspectos, especialmente comercialización, los encargados de producción proceden a establecer cuál será el aspecto de los personajes, los decorados, los colores y de todo aquello que deba animarse, desde el protagonista principal hasta una simple silla. Especialmente en las primeras películas fue muy importante el trabajo técnico de ingenieros de origen asiático (indios y japoneses en su mayoría) que se afincaron en Estados Unidos.
+
+En la fase de producción podían intervenir más de mil ordenadores con un total de 2 Terabytes de memoria RAM y 60 de espacio en disco.
+
+Los actores o guionistas graban diálogos provisionales en base al guion y a partir de ellos se realizan las imágenes. En la etapa de producción, los diálogos pueden ser desarrollados o leídos por ayudantes, guionistas o actores que interpretan el papel solo de forma provisional.
+
+La etapa final es la renderización, una operación que puede durar de 6 a 90 horas. Al finalizar y como en cualquier otro filme se añaden los efectos sonoros, la banda sonora y a veces los diálogos de los actores definitivos. Muchas de las bandas sonoras han sido compuestas por Randy Newman, ganador del Óscar a la mejor canción original por Monsters, Inc. y nominado en varias ocasiones a la mejor partitura.
+
+Producciones[editar]
+Largometrajes[editar]
+#	Película	Fecha de estreno	Director(es)	Historiador(es)	Guionista(s)	Presupuesto	Recaudación
+en taquilla3	MC	RT	IMDb	Premios Óscar
+1
+Toy Story
+Oficial: 22 de noviembre de 1995
+3D: 02 de octubre de 2009	John Lasseter	John Lasseter
+Pete Docter
+Andrew Stanton
+Joe Ranft	Andrew Stanton
+Joel Cohen
+Alec Sokolow
+Joss Whedon	
+$ 30 000 000
+$ 361 996 233
+92
+100%
+8,2
+(#137)
+Victorias:
+Premio especial
+Nominaciones:
+Mejor guion original
+Mejor canción original
+Mejor banda sonora
+2
+Bichos, una aventura en miniatura
+25 de noviembre de 1998	John Lasseter
+Andrew Stanton	John Lasseter
+Andrew Stanton
+Joe Ranft	Andrew Stanton
+Don McEnery
+Bob Shaw	
+$ 60 000 000
+$ 363 398 565
+77
+92%
+7,3
+Nominaciones:
+Mejor banda sonora
+3
+Toy Story 2
+Oficial: 24 de noviembre de 1999
+3D: 02 de octubre de 2009	John Lasseter
+Lee Unkrich
+Ash Brannon	John Lasseter
+Pete Docter
+Ash Brannon
+Andrew Stanton	Andrew Stanton
+Rita Hsiao
+Doug Chamberlain
+Chris Webb	
+$ 90 000 000
+$ 485 015 179
+88
+100%
+8
+Nominaciones:
+Mejor canción original
+4
+Monsters, Inc.
+2 de noviembre de 2001
+3D: ? de octubre de 2012	Pete Docter
+Lee Unkrich
+David Silverman	Pete Docter
+Jill Culton
+Jeff Pidgeon
+Ralph Eggleston	Andrew Stanton
+Daniel Gerson	
+$ 115 000 000
+$ 525 366 597
+78
+95%
+8
+(#242)
+Victorias:
+Mejor canción original
+Nominaciones:
+Mejor película animada
+Mejor banda sonora
+Mejor edición de sonido
+5
+Buscando a Nemo
+30 de mayo de 2003
+3D: 01 de mayo de 2013	Andrew Stanton
+Lee Unkrich	Andrew Stanton	Andrew Stanton
+Bob Peterson
+David Reynolds	
+$ 94 000 000
+$ 867 893 978
+89
+98%
+8,2
+(#169)
+Victorias:
+Mejor película animada
+Nominaciones:
+Mejor guion original
+Mejor banda sonora
+'Mejor edición de sonido
+6
+Los increíbles
+5 de noviembre de 2004	Brad Bird	Brad Bird	Brad Bird	
+$ 92 000 000
+$ 631 442 092
+90
+97%
+8,1
+(#209)
+Victorias:
+Mejor película animada
+Mejor edición de sonido
+Nominaciones:
+Mejor guion original
+Mejor sonido
+7
+Cars
+9 de junio de 2006	John Lasseter
+Joe Ranft	John Lasseter
+Joe Ranft
+Jorgen Klubien	Dan Fogelman
+John Lasseter
+Joe Ranft
+Kiel Murray
+Phil Lorin
+Brenda Chapman
+$ 120 000 000
+$ 461 982 881
+73
+74%
+7,4
+Nominaciones:
+Mejor película animada
+Mejor canción original
+8
+Ratatouille
+29 de junio de 2007	Brad Bird
+Jan Pinkava	Brad Bird
+Jan Pinkava
+Jim Capobianco	Brad Bird	
+$ 150 000 000
+$ 621 426 008
+96
+96%
+8,1
+(#188)
+Victorias:
+Mejor película animada
+Nominaciones:
+Mejor guion original
+Mejor banda sonora
+Mejor edición de sonido
+Mejor sonido
+9
+WALL-E
+27 de junio de 2008	Andrew Stanton
+Andrew Stanton
+Pete Docter	Andrew Stanton
+Jim Reardon	
+$ 180 000 000
+$ 521 268 237
+94
+96%
+8,5
+(#52)
+Victorias:
+Mejor película animada
+Nominaciones:
+Mejor guion original
+Mejor canción original
+Mejor banda sonora
+Mejor edición de sonido
+Mejor sonido
+10
+Up
+29 de mayo de 2009	Pete Docter
+Bob Peterson	Pete Docter
+Bob Peterson
+Thomas McCarthy	Bob Peterson
+Pete Docter	
+$ 175 000 000
+$ 731 338 164
+88
+98%
+8,3
+(#99)
+Victorias:
+Mejor película animada
+Mejor banda sonora
+Nominaciones:
+Mejor guion original
+Mejor edición de sonido
+Mejor película
+11
+Toy Story 3
+18 de junio de 2010	Lee Unkrich	John Lasseter
+Andrew Stanton
+Lee Unkrich	Michael Arndt	
+$ 200 000 000
+$ 1 063 143 492
+92
+99%
+8,6
+(#36)
+Victorias:
+Mejor película animada
+Mejor canción original
+Nominaciones:
+Mejor guion adaptado
+Mejor edición de sonido
+Mejor película
+12
+Cars 2
+24 de junio de 2011	John Lasseter
+Brad Lewis	John Lasseter
+Brad Lewis
+Dan Fogelman	Ben Queen	
+$ 200 000 000
+$ 550 448 000
+57
+39%
+6,5
+Ninguna nominación
+13	
+Brave
+22 de junio de 2012	Mark Andrews
+Brenda Chapman
+Steve Purcell	Brenda Chapman	Mark Andrews
+Steve Purcell
+Brenda Chapman
+Irene Mecchi	
+$ 185 000 000
+$ 531 521 0004
+69
+78%
+7,8
+Victorias:
+Mejor película animada
+14
+Monsters University
+21 de junio de 2013	Dan Scanlon	Dan Scanlon
+Daniel Gerson
+Robert L. Baird	Pete Docter
+Andrew Stanton	
+$ 200 000 000
+$  730 800 000 
+
+78%
+
+7,6
+
+Nominaciones: Ninguna nominación
+En producción[editar]
+The Good Dinosaur (2015)
+Inside Out (Película) (2015).5
+Finding Dory (2016).6 "
+Día de los muertos (2016)
+The Incredibles 2 (TBA)
+Cars 3 (TBA)
+Toy Story 4 (2017)
+Cortometrajes[editar]
+Título	Año	Duración	DVD
+Las Aventuras de André y Wally B.	1984	01:48	Tin Toy Stories
+Pixar Shorts Film Collection
+Luxo Jr.	1986	02:29
+Red's dream	1987	04:09
+Tin Toy	1988	05:06
+Knick Knack	1989	03:47
+Geri's Game	1997	04:55	Pixar Shorts Film Collection
+For The Birds	2000	03:21
+Mike's New Car	2002	03:43
+Boundin'	2003	04:40
+One Man Band	2005	04:32
+Jack Jack Attack	2005	04:36
+Mater y la luz fantasma	2006	07:09
+Lifted	2006	05:00	Ratatouille
+Your friend the Rat	2007	11:16
+Presto	2008	05:14	Wall E
+BURN-E	2008	07:39
+Partly Cloudy	2009	05:45	UP
+Dug's Special Mission	2009	04:43
+Día y Noche	2010	05:57	Toy Story 3
+Vacaciones en Hawaii	2011	06:35	Cars 2
+Pequeño gran Buzz	2011	07:15	The Muppets
+La Luna	2012	06:53	Brave
+Fiestasaurus Rex	2012	06:43	Buscando a Nemo 3D
+La leyenda de Mordu	2012	06:52	Brave
+The Blue Umbrella	2013	Aproximadamente 6 minutos	Monsters University
+Toy Story of Terror	2013	Aproximadamente media hora	Toy Story Toons Collection: Part One
+Monsters University: Party Central	2014	Aproximadamente 6 minutos	Muppets Most Wanted
+Cars Toons[editar]
+Título	Año	Temporada
+Rescue Squad Mater	2008	1ª Temporada
+Mater the Greater	2008
+El Materdor	2008
+Tokyo Mater	2008	2ª Temporada
+Unidentified Flying Mater	2009
+Heavy Metal Mater	2010
+Monster Truck Mater	2010
+Mater Private Eye	2010
+Moon Mater	2010
+Air Mater	2011	3ª Temporada
+Otras producciones[editar]
+Título	Año	Co-producción	Tipo
+Buzz Lightyear of Star Command: The Adventure Begins	2001	DisneyToon Studios	Largometraje (directo a video)
+Buzz Lightyear of Star Command	2002	DisneyToon Studios	Serie de animación
+Exploring the Reef	2003		Documental (directo a video)
+Mr. Incredible and Pals	2005		Trabajo adicional
+The Incredible Socks	2005		Trabajo adicional
+George & A.J.	2009		Trabajo adicional
+Has No Hands Mqueen	2010		Historias del Estudio
+Where's Gordon?	2010		Historias del Estudio
+Cereal Bar	2010		Historias del Estudio
+A New Beginning	2010		Historias del Estudio
+Dinosaur Revolution	2011	Discovery Channel	Documental de televisión
+Producciones canceladas[editar]
+Newt era una propuesta de Pixar, cuyo estreno estaba programado para el 2011.7 Oficialmente el proyecto ha sido cancelado.8 En abril del 2010, Disney / Pixar anunciaron a Newt sin una fecha de lanzamiento dicha. Además, la película fue retirada de la Disney A to Z: The Official Encyclopedia, administrada por el jefe Dave Smith. Un mensaje enviado y firmado por Smith declaraba: "Este film ha sido cancelado". Este mensaje, junto a expertos y críticos de la industria, llevó a las sospechas acertadas de la cancelación. El director creativo; John Lasseter, no dio afirmaciones ni comentarios acerca del tema, pero una fuente independiente del Estudio Pixar, comentó:
+
+Hemos tomado Newt y lo hemos dejado fuera de nuestros planes, para permitir a nuestros equipos y artistas creativos trabajen en otros futuros proyectos.
+
+En la trama, Newt y Brooke son las últimas salamandras de pies azules, macho y hembra, del planeta. No soportan estar juntos, pero se ven obligados por la ciencia para salvar su especie. Ese es el problema que enfrentaran Newt y Brooke, y los llevará a una peligrosa e impredecible aventura en la que descubrirán que la búsqueda de una pareja no siempre pasa como estaba previsto, aunque sólo tienen una elección.9 Una de las razones más notorias para la cancelación de este proyecto es el parecido de la trama con el de la película Río, la cual trata de dos Guacamayos azules que no se llevan muy bien pero deben repoblar su especie. El director Gary Rydstrom, fue nombrado director del corto Pixar, Hawaiian Vacation, de la colección de Toy Story. Lanzado en el 2011, junto a Cars 2. De lo que se suponía que Newt ya no ocupaba tiempo en su agenda más.
+
+Título	Año	Director	Escritor
+Newt	2012	Gary Rydstrom	Gary Rydstrom
+Referencias[editar]
+Volver arriba ↑ http://www.blogdecine.com/noticias/pixar-confirma-los-increibles-2-y-cars-3
+↑ Saltar a: a b c d Hormby, Thomas (22 de enero de 2007). «The Pixar Story: Fallon Forbes, Dick Shoup, Alex Schure, George Lucas, Steve Jobs, and Disney». Low End Mac. Consultado el 1 de marzo de 2007.
+Volver arriba ↑ «Pixar - Box Office History». The-numbers.com. Consultado el 30 de junio de 2009.
+Volver arriba ↑ «Brave». Bof Office Mojo. Consultado el 15 de octubre de 2012.
+Volver arriba ↑ [1]
+Volver arriba ↑ [2]
+Volver arriba ↑ The Walt Disney Studios Rolls Out Slate of 10 New Animated Motion Pictures Through 2011. Walt Disney Company, vía PRNewswire. 08-04-2008. Consultado el 08-04-2008.
+Volver arriba ↑ ´«Newt está cancelado (en inglés)». Consultado el 14 de abril de 2011.
+Volver arriba ↑ Olly Richards (09-04-2008). Cars 2 & A Ton More 'Toons. Empire. Consultado el 09-04-2008.
+Enlaces externos[editar]
+Pixar en Internet Movie Database.
+Disney y Pixar de aquí al 2012
+Bibliografía[editar]
+Isaacson, Walter (2011). Steve Jobs. Debate. ISBN 978-987-1786-23-7.
+Referencias[editar]
+Véase también[editar]
+Walt Disney Animation Studios
+Enlaces externos[editar]
+Página oficial de Pixar Animation Studios (en inglés)
+Colabora en Wikinoticias Artículos en Wikinoticias: Disney compra Pixar
