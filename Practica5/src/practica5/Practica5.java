@@ -88,8 +88,12 @@ public class Practica5 {
 	 *            funcion, el path de la carpeta donde se encuentran los docs
 	 *            que cifrar y descifrar.
 	 * @throws NoSuchAlgorithmException
+	 * @throws BadPaddingException 
+	 * @throws IllegalBlockSizeException 
+	 * @throws NoSuchPaddingException 
+	 * @throws InvalidKeyException 
 	 */
-	public static void main(String[] args) throws NoSuchAlgorithmException {
+	public static void main(String[] args) throws NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException {
 		int n = -1;
 		String path = null;
 
@@ -258,27 +262,130 @@ public class Practica5 {
 	 * simetrico y asimetrico y muestra una comparativa de los tiempos
 	 * 
 	 * @param maxTam
+	 * @throws NoSuchAlgorithmException 
+	 * @throws BadPaddingException 
+	 * @throws IllegalBlockSizeException 
+	 * @throws NoSuchPaddingException 
+	 * @throws InvalidKeyException 
 	 */
-	private static void comparativasCifrado(int maxTam) {
+	private static void comparativasCifrado(int maxTam) throws NoSuchAlgorithmException, InvalidKeyException, NoSuchPaddingException, IllegalBlockSizeException, BadPaddingException {
 		long[] cifradoSimetrico = new long[100];
 		long[] descifradoSimetrico = new long[100];
 		
 		long[] cifradoASimetrico = new long[100];
 		long[] descifradoAsimetrico = new long[100];
 		
-		int mediaCifradoSimetrico, mediaCifradoAsimetrico, 
-			mediaDesSimetrico, mediaDesAsimetrico;
+		int mediaCifradoSimetrico = 0, mediaCifradoAsimetrico = 0, 
+			mediaDesSimetrico = 0, mediaDesAsimetrico = 0;
 		for (int i = 0; i < 100; i++) {
 			try {
 				byte[] rawBytes = generateMessage(maxTam).getBytes("UTF-8");
-				// cifradoSimetrico[i] =
-				// TODO: modificar los metodos para poder obtener todos los
-				// tiempos por separado??
+				
+				Key simetrica = getClaveSimetrica();
+				KeyPair asimetrica = getClaveAsimetrica();
+				
+				// cifrar asimetrico
+				long t0 = System.nanoTime();
+				byte[] simEnc = cifrarSimetrico(rawBytes, simetrica);
+				long t1 = System.nanoTime();
+				long tiempo = (long) ((t1 - t0) / 1000);
+				cifradoSimetrico[i] = tiempo;
+				
+				// descifrar simetrico
+				t0 = System.nanoTime();
+				descifrarSimetrico(simEnc, simetrica);
+				t1 = System.nanoTime();
+				tiempo = (long) ((t1 - t0) / 1000);
+				descifradoSimetrico[i] = tiempo;
+				
+				// cifrar asimetrico
+				t0 = System.nanoTime();
+				byte[] asimEnc = cifrarAsimetrico(rawBytes, asimetrica);
+				t1 = System.nanoTime();				
+				tiempo = (long) ((t1 - t0) / 1000);
+				cifradoASimetrico[i] = tiempo;
+				
+				// descifrar asimetrico
+				t0 = System.nanoTime();
+				descifrarAsimetrico(asimEnc, asimetrica);
+				t1 = System.nanoTime();
+				tiempo = (long) ((t1 - t0) / 1000);
+				descifradoAsimetrico[i] = tiempo;
+
 			} catch (UnsupportedEncodingException e) {
 				e.printStackTrace();
 			}
 		}
+		
+		for (int i = 0; i < 100; i++) {
+			mediaCifradoAsimetrico += cifradoASimetrico[i];
+			mediaCifradoSimetrico += cifradoSimetrico[i];
+			mediaDesAsimetrico += descifradoAsimetrico[i];
+			mediaDesSimetrico += descifradoSimetrico[i];
+		}
+		
+		mediaCifradoAsimetrico = mediaCifradoAsimetrico / 100;
+		mediaCifradoSimetrico = mediaCifradoSimetrico / 100;
+		mediaDesAsimetrico = mediaDesAsimetrico / 100;
+		mediaDesSimetrico = mediaDesSimetrico / 100;
+		
+		System.out.println("CIFRADO)(clave publica-privada) Tiempo: " + mediaCifradoAsimetrico + " milisegundos");
+		System.out.println("CIFRADO)(clave privada) Tiempo: " + mediaCifradoSimetrico + " milisegundos");
+		System.out.println("DESCIFRADO)(clave publica-privada) Tiempo: " + mediaDesAsimetrico + " milisegundos");
+		System.out.println("DESCIFRADO)(clave privada) Tiempo: " + mediaDesSimetrico + " milisegundos");
 	}
+	
+	private static KeyPair getClaveAsimetrica() throws NoSuchAlgorithmException{
+		// obtener generador de claves
+		KeyPairGenerator kpg = KeyPairGenerator.getInstance("RSA");
+		SecureRandom sr = SecureRandom.getInstance("SHA1PRNG");
+		kpg.initialize(1024 * 3, sr);
+		KeyPair kp = kpg.generateKeyPair(); // obtiene par de claves
+		return kp;
+	}
+	
+	private static Key getClaveSimetrica() throws NoSuchAlgorithmException{
+		KeyGenerator generator = KeyGenerator.getInstance("Blowfish");
+		generator.init(128);
+		Key clave = generator.generateKey();
+		return clave;
+	}
+	
+	private static byte[] cifrarSimetrico(byte[] msg, Key k) throws NoSuchAlgorithmException, 
+			NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, 
+			BadPaddingException{
+		Cipher cipher = Cipher.getInstance("Blowfish/ECB/PKCS5Padding");
+		cipher.init(Cipher.ENCRYPT_MODE, k);
+		byte[] encryptedBytes = cipher.doFinal(msg);
+		return encryptedBytes;
+	}
+	
+	private static byte[] descifrarSimetrico(byte[] msg, Key k) throws NoSuchAlgorithmException, 
+			NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, 
+			BadPaddingException{
+		Cipher cipher = Cipher.getInstance("Blowfish/ECB/PKCS5Padding");
+		cipher.init(Cipher.DECRYPT_MODE, k);
+		byte[] bytes = cipher.doFinal(msg);
+		return bytes;
+	}
+	
+	private static byte[] cifrarAsimetrico(byte[] msg, KeyPair k) 
+			throws NoSuchAlgorithmException, NoSuchPaddingException, 
+			InvalidKeyException, IllegalBlockSizeException, BadPaddingException{
+		Cipher cipher = Cipher.getInstance("RSA/ECB/PKCS1Padding");
+		cipher.init(Cipher.ENCRYPT_MODE, k.getPrivate());
+		byte[] bytes = cipher.doFinal(msg);
+		return bytes;
+    }
+	
+	private static byte[] descifrarAsimetrico(byte[] msg, KeyPair k) 
+			throws NoSuchAlgorithmException, NoSuchPaddingException, 
+			InvalidKeyException, IllegalBlockSizeException, BadPaddingException{
+		Cipher cipher = Cipher.getInstance("RSA/ECB/PKCS1Padding");
+		cipher.init(Cipher.DECRYPT_MODE, k.getPublic());
+		byte[] bytes = cipher.doFinal(msg);
+		return bytes;
+    }
 
 	/**
 	 * The RSA algorithm can only encrypt data that has a maximum byte length of
@@ -315,9 +422,7 @@ public class Practica5 {
 					cipher.init(Cipher.ENCRYPT_MODE, rk);
 					byte[] encryptedBytes = cipher.doFinal(rawBytes);
 					cipher.init(Cipher.DECRYPT_MODE, pk);
-					byte[] decryptedBytes = cipher.doFinal(encryptedBytes);
-					System.out.println("----------------------------------------------");
-					System.out.println(new String(decryptedBytes, "UTF-8"));
+					cipher.doFinal(encryptedBytes);
 				}
 				return (tam / 8 - 11);
 			} else { // en comparativa con cifrado simetrico
