@@ -1,6 +1,9 @@
 package practica6;
 
 import org.owasp.esapi.ESAPI;
+import org.owasp.esapi.codecs.HTMLEntityCodec;
+import org.owasp.esapi.codecs.MySQLCodec;
+import org.owasp.esapi.errors.EncodingException;
 
 public class Utils {
 
@@ -8,7 +11,6 @@ public class Utils {
 	 * Canonicaliza la string de entrada
 	 */
 	public static String canonicalizar(String in){
-		// TODO
 		return ESAPI.encoder().canonicalize(in);
 	}
 	
@@ -25,7 +27,8 @@ public class Utils {
 	 */
 	public static String codeSQL(String in){
 		//TODO
-		return null;
+		MySQLCodec codec = new MySQLCodec(MySQLCodec.Mode.STANDARD);
+		return ESAPI.encoder().encodeForSQL(codec, in);
 	}
 	
 	/**
@@ -33,14 +36,15 @@ public class Utils {
 	 */
 	public static String codeHTML(String in){
 		//TODO
-		return null;
+		return ESAPI.encoder().encodeForHTML(in);
 	}
 	
 	/**
 	 * Codifica la string de entrada para URL
+	 * @throws EncodingException 
 	 */
-	public static String codeURL(String in){
+	public static String codeURL(String in) throws EncodingException{
 		//TODO
-		return null;
+		return ESAPI.encoder().encodeForURL(in);
 	}
 }

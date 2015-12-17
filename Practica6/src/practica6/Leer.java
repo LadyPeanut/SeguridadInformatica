@@ -2,6 +2,8 @@ package practica6;
 
 import java.util.Scanner;
 
+import org.owasp.esapi.errors.EncodingException;
+
 public class Leer {
 	
 	/**
@@ -38,14 +40,12 @@ public class Leer {
 			}
 		}
 
-		canonicalizar = true;
 		Scanner s = new Scanner(System.in);
 		while(s.hasNextLine()){
 			String in = s.nextLine();
 			
-			if(canonicalizar){	// TODO canonicalizar
+			if(canonicalizar){
 				in = Utils.canonicalizar(in);
-				System.out.println(in);
 			}
 			if(validar){	// TODO validar
 				boolean valido = Utils.validar(in);
@@ -57,7 +57,9 @@ public class Leer {
 				String HTMLin = Utils.codeHTML(in);
 			}
 			if(codificar[2]){	// TODO codificar URL
-				String URLin = Utils.codeURL(in);
+				try {
+					String URLin = Utils.codeURL(in);
+				} catch (EncodingException e) {}
 			}
 		}
 		s.close();
