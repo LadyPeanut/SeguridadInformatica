@@ -1,5 +1,7 @@
 package practica6;
 
+import org.owasp.esapi.ESAPI;
+
 public class Utils {
 
 	/**
@@ -7,7 +9,7 @@ public class Utils {
 	 */
 	public static String canonicalizar(String in){
 		// TODO
-		return null;
+		return ESAPI.encoder().canonicalize(in);
 	}
 	
 	/**

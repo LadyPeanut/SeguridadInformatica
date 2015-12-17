@@ -38,12 +38,14 @@ public class Leer {
 			}
 		}
 
+		canonicalizar = true;
 		Scanner s = new Scanner(System.in);
 		while(s.hasNextLine()){
 			String in = s.nextLine();
 			
 			if(canonicalizar){	// TODO canonicalizar
 				in = Utils.canonicalizar(in);
+				System.out.println(in);
 			}
 			if(validar){	// TODO validar
 				boolean valido = Utils.validar(in);
