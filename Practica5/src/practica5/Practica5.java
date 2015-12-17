@@ -30,6 +30,7 @@
  * Utilizamos Blowfish para el cifrado simetrico porque es mas seguro 
  * que DES y mas rapido que AES para el mismo tamaño
  */
+ //TODO: explicaciones
 package practica5;
 
 import java.io.BufferedInputStream;
