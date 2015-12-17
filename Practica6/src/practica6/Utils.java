@@ -1,7 +1,6 @@
 package practica6;
 
 import org.owasp.esapi.ESAPI;
-import org.owasp.esapi.codecs.HTMLEntityCodec;
 import org.owasp.esapi.codecs.MySQLCodec;
 import org.owasp.esapi.errors.EncodingException;
 
@@ -26,7 +25,6 @@ public class Utils {
 	 * Codifica la string de entrada para SQL
 	 */
 	public static String codeSQL(String in){
-		//TODO
 		MySQLCodec codec = new MySQLCodec(MySQLCodec.Mode.STANDARD);
 		return ESAPI.encoder().encodeForSQL(codec, in);
 	}
@@ -35,7 +33,6 @@ public class Utils {
 	 * Codifica la string de entrada para HTML
 	 */
 	public static String codeHTML(String in){
-		//TODO
 		return ESAPI.encoder().encodeForHTML(in);
 	}
 	
@@ -44,7 +41,6 @@ public class Utils {
 	 * @throws EncodingException 
 	 */
 	public static String codeURL(String in) throws EncodingException{
-		//TODO
 		return ESAPI.encoder().encodeForURL(in);
 	}
 }
