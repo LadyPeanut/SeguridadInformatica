@@ -21,6 +21,7 @@
  * clave publica y privada.
  * El SecureRandom usa el PseudoRandomNumberGenerator (PRNG) de SHA1.
  */
+ //TODO: explicaciones
 package practica5;
 
 import java.io.BufferedInputStream;
@@ -144,7 +145,7 @@ public class Practica5 {
 		// cifrado de textos
 		 firma(n);
 		 
-		 int maxTam = 100;
+		 int maxTam = 100;	//sacar MaxTam con un metodo
 		 comparativasCifrado(maxTam);
 		 comparativasCifrado();
 	}
