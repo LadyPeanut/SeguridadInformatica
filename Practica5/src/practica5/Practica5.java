@@ -182,7 +182,7 @@ public class Practica5 {
 				firma(mensaje, mensaje.length);
 				long t1 = System.nanoTime();
 				
-				times[i] = (long) ((t1 - t0) / 1000000);
+				times[i] = (long) ((t1 - t0) / 1000.0);
 			}
 			
 			long time = 0;
@@ -191,7 +191,7 @@ public class Practica5 {
 			}
 			time = time / n;
 			
-			System.out.println("FIRMA) Tiempo: " + time + " milisegundos");
+			System.out.println("FIRMA) Tiempo: " + time + " microsegundos");
 		} catch (UnsupportedEncodingException e) {
 			e.printStackTrace();
 		}
@@ -303,44 +303,44 @@ public class Practica5 {
 		
 		long mediaCifradoSimetrico = 0, mediaCifradoAsimetrico = 0, 
 			mediaDesSimetrico = 0, mediaDesAsimetrico = 0;
-		for (int i = 0; i < 100; i++) {
-			try {
-				byte[] rawBytes = generateMessage(maxTam).getBytes("UTF-8");
-				
+		
+		try{
+			byte[] rawBytes = generateMessage(maxTam).getBytes("UTF-8");
+			for (int i = 0; i < 100; i++) {
 				Key simetrica = getClaveSimetrica();
 				KeyPair asimetrica = getClaveAsimetrica();
-				
+
 				// cifrar asimetrico
 				long t0 = System.nanoTime();
 				byte[] simEnc = cifrarSimetrico(rawBytes, simetrica);
 				long t1 = System.nanoTime();
-				long tiempo = (long) ((t1 - t0) / 1000000);
+				long tiempo = (long) ((t1 - t0) / 1000.0);
 				cifradoSimetrico[i] = tiempo;
 				
 				// descifrar simetrico
 				t0 = System.nanoTime();
 				descifrarSimetrico(simEnc, simetrica);
 				t1 = System.nanoTime();
-				tiempo = (long) ((t1 - t0) / 1000000);
+				tiempo = (long) ((t1 - t0) / 1000.0);
 				descifradoSimetrico[i] = tiempo;
 				
 				// cifrar asimetrico
 				t0 = System.nanoTime();
 				byte[] asimEnc = cifrarAsimetrico(rawBytes, asimetrica);
 				t1 = System.nanoTime();				
-				tiempo = (long) ((t1 - t0) / 1000000);
+				tiempo = (long) ((t1 - t0) / 1000.0);
 				cifradoASimetrico[i] = tiempo;
 				
 				// descifrar asimetrico
 				t0 = System.nanoTime();
 				descifrarAsimetrico(asimEnc, asimetrica);
 				t1 = System.nanoTime();
-				tiempo = (long) ((t1 - t0) / 1000000);
+				tiempo = (long) ((t1 - t0) / 1000.0);
 				descifradoAsimetrico[i] = tiempo;
-
-			} catch (UnsupportedEncodingException e) {
-				e.printStackTrace();
 			}
+
+		} catch (UnsupportedEncodingException e) {
+			e.printStackTrace();
 		}
 		
 		for (int i = 0; i < 100; i++) {
@@ -355,10 +355,10 @@ public class Practica5 {
 		mediaDesAsimetrico = (long) (mediaDesAsimetrico / 100);
 		mediaDesSimetrico = (long) (mediaDesSimetrico / 100);
 		
-		System.out.println("CIFRADO 100)(clave publica-privada) Tiempo: " + mediaCifradoAsimetrico + " milisegundos");
-		System.out.println("DESCIFRADO 100)(clave publica-privada) Tiempo: " + mediaDesAsimetrico + " milisegundos");
-		System.out.println("CIFRADO 100)(clave privada) Tiempo: " + mediaCifradoSimetrico + " milisegundos");
-		System.out.println("DESCIFRADO 100)(clave privada) Tiempo: " + mediaDesSimetrico + " milisegundos");
+		System.out.println("CIFRADO 100)(clave publica-privada) Tiempo: " + mediaCifradoAsimetrico + " microsegundos");
+		System.out.println("DESCIFRADO 100)(clave publica-privada) Tiempo: " + mediaDesAsimetrico + " microsegundos");
+		System.out.println("CIFRADO 100)(clave privada) Tiempo: " + mediaCifradoSimetrico + " microsegundos");
+		System.out.println("DESCIFRADO 100)(clave privada) Tiempo: " + mediaDesSimetrico + " microsegundos");
 	}
 	
 	private static void comparativasCifrado() throws 
@@ -380,14 +380,14 @@ public class Practica5 {
 				long t0 = System.nanoTime();
 				byte[] simEnc = cifrarSimetrico(rawBytes, simetrica);
 				long t1 = System.nanoTime();
-				long tiempo = (long) ((t1 - t0) / 1000000);
+				long tiempo = (long) ((t1 - t0) / 1000.0);
 				cifradoSimetrico[i] = tiempo;
 				
 				// descifrar simetrico
 				t0 = System.nanoTime();
 				descifrarSimetrico(simEnc, simetrica);
 				t1 = System.nanoTime();
-				tiempo = (long) ((t1 - t0) / 1000000);
+				tiempo = (long) ((t1 - t0) / 1000.0);
 				descifradoSimetrico[i] = tiempo;
 
 			} catch (UnsupportedEncodingException e) {
@@ -403,8 +403,8 @@ public class Practica5 {
 		mediaCifradoSimetrico = (long) (mediaCifradoSimetrico / 100);
 		mediaDesSimetrico = (long) (mediaDesSimetrico / 100);
 		
-		System.out.println("CIFRADO 25W)(clave secreta) Tiempo: " + mediaCifradoSimetrico + " milisegundos");
-		System.out.println("DESCIFRADO 25W)(clave secreta) Tiempo: " + mediaDesSimetrico + " milisegundos");
+		System.out.println("CIFRADO 25W)(clave secreta) Tiempo: " + mediaCifradoSimetrico + " microsegundos");
+		System.out.println("DESCIFRADO 25W)(clave secreta) Tiempo: " + mediaDesSimetrico + " microsegundos");
 	}
 	
 	private static KeyPair getClaveAsimetrica() throws NoSuchAlgorithmException{
@@ -481,7 +481,7 @@ public class Practica5 {
 
 				long t1 = System.nanoTime();
 
-				long tiempo = (long) ((t1 - t0) / 1000000);
+				long tiempo = (long) ((t1 - t0) / 1000.0);
 				times[i] = tiempo;
 
 			} catch (NoSuchAlgorithmException e) {
@@ -495,7 +495,7 @@ public class Practica5 {
 		}
 		tiempo = (long) (tiempo / times.length);
 
-		System.out.println("HASH) Tiempo: " + tiempo + " milisegundos");
+		System.out.println("HASH) Tiempo: " + tiempo + " microsegundos");
 	}
 
 	/**
@@ -546,7 +546,7 @@ public class Practica5 {
 
 				long t1 = System.nanoTime();
 
-				long tiempo = (long) ((t1 - t0) / 1000000.0);
+				long tiempo = (long) ((t1 - t0) / 1000.0);
 				times[i] = tiempo;
 			} catch (NoSuchAlgorithmException e) {
 				e.printStackTrace();
@@ -558,7 +558,7 @@ public class Practica5 {
 			tiempo += times[i];
 		}
 		tiempo = (long) (tiempo / times.length);
-		System.out.println("KEY GENERATION) Tiempo: " + tiempo + " milisegundos");
+		System.out.println("KEY GENERATION) Tiempo: " + tiempo + " microsegundos");
 
 		return k;
 	}
@@ -581,8 +581,8 @@ public class Practica5 {
 				saveToFile(privadasFile + i, priv.getPrivateExponent(), priv.getPrivateExponent());
 			}
 			long t1 = System.nanoTime();
-			long tiempo = (long) ((t1 - t0) / 1000000.0);
-			System.out.println("ALMACENAMIENTO)(3 pares de claves) Tiempo: " + tiempo + " milisegundos");
+			long tiempo = (long) ((t1 - t0) / 1000.0);
+			System.out.println("ALMACENAMIENTO)(3 pares de claves) Tiempo: " + tiempo + " microsegundos");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -616,8 +616,8 @@ public class Practica5 {
 		} finally {
 			oin.close();
 			long t1 = System.nanoTime();
-			long tiempo = (long) ((t1 - t0) / 1000000.0);
-			System.out.println("LECTURA)(clave publica) Tiempo: " + tiempo + " milisegundos");
+			long tiempo = (long) ((t1 - t0) / 1000.0);
+			System.out.println("LECTURA)(clave publica) Tiempo: " + tiempo + " microsegundos");
 		}
 	}
 
@@ -637,8 +637,8 @@ public class Practica5 {
 		} finally {
 			oin.close();
 			long t1 = System.nanoTime();
-			long tiempo = (long) ((t1 - t0) / 1000000.0);
-			System.out.println("LECTURA)(clave privada) Tiempo: " + tiempo + " milisegundos");
+			long tiempo = (long) ((t1 - t0) / 1000.0);
+			System.out.println("LECTURA)(clave privada) Tiempo: " + tiempo + " microsegundos");
 		}
 	}
 
