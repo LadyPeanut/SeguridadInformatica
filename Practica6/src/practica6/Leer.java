@@ -46,20 +46,27 @@ public class Leer {
 			
 			if(canonicalizar){
 				in = Utils.canonicalizar(in);
+				System.out.println("Canonalizado: " + in);
 			}
-			if(validar){	// TODO validar
-				boolean valido = Utils.validar(in);
+			if(validar){	// TODO logger?
+				boolean valido = Utils.validar(in, "Nombre");
+				if(!valido) continue;
 			}
-			if(codificar[0]){	// TODO codificar SQL
+			if(codificar[0]){	// TODO comprobar que funciona
 				String SQLin = Utils.codeSQL(in);
+				System.out.println("SQL encoding: " + SQLin);
 			}
-			if(codificar[1]){ // TODO codificar HTML
+			if(codificar[1]){	// TODO comprobar que funciona
 				String HTMLin = Utils.codeHTML(in);
+				System.out.println("HTML encoding: " + HTMLin);
 			}
-			if(codificar[2]){	// TODO codificar URL
+			if(codificar[2]){	// TODO comprobar que funciona
 				try {
 					String URLin = Utils.codeURL(in);
-				} catch (EncodingException e) {}
+					System.out.println("URL Encoding: " + URLin);
+				} catch (EncodingException e) {
+					e.printStackTrace();
+				}
 			}
 		}
 		s.close();
