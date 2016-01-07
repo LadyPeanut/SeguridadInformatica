@@ -30,7 +30,7 @@ public class Utils {
 	public static boolean validar(String in, String field){
 		DefaultValidator dfv = new DefaultValidator();
 		try{
-			boolean validado = dfv.isValidInput(null, in, field, -1, true);
+			boolean validado = dfv.isValidInput(field, in, field, 10000, true);
 			if(!validado) throw new IntrusionException("False validation", "False validation");
 			return validado;
 		}

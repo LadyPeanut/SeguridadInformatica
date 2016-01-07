@@ -51,6 +51,7 @@ public class Leer {
 			}
 			if(validar){	// TODO logger?
 				boolean valido = false;
+				System.out.println("Validando");
 				/* ESAPI.properties */
 				switch(opcion){
 				case 0:	// nombre
