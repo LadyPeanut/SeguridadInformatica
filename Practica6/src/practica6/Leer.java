@@ -41,6 +41,7 @@ public class Leer {
 		}
 
 		Scanner s = new Scanner(System.in);
+		int opcion = 0;
 		while(s.hasNextLine()){
 			String in = s.nextLine();
 			
@@ -49,7 +50,22 @@ public class Leer {
 				System.out.println("Canonalizado: " + in);
 			}
 			if(validar){	// TODO logger?
-				boolean valido = Utils.validar(in, "Nombre");
+				boolean valido = false;
+				/* ESAPI.properties */
+				switch(opcion){
+				case 0:	// nombre
+					valido = Utils.validar(in, "Nombre");
+					break;
+				case 1:	// direccion
+					valido = Utils.validar(in, "Direccion");
+					break;
+				case 2:	// tarjeta de credito
+					valido = Utils.validar(in, "TarjetaCredito");
+					break;
+				case 3:	// DNI
+					valido = Utils.validar(in, "DNI");
+					break;
+				}
 				if(!valido) continue;
 			}
 			if(codificar[0]){	// TODO comprobar que funciona
@@ -68,6 +84,8 @@ public class Leer {
 					e.printStackTrace();
 				}
 			}
+			
+			opcion = opcion % 4;
 		}
 		s.close();
 	}
